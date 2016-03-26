@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Essential: yes
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsbm0d.nicon_1.0.3_iphoneos-arm.deb
-Size: 12392
-MD5sum: af793deffb021e6b51afd4dc07c4c0cb
-SHA1: b40ae21c2a73bec41ec0f41752131ea3b058f0e2
-SHA256: 843aa77043149caa052c75a36c74b8bca3659cdaa9726f1543c0be4692a8098a
+Size: 12400
+MD5sum: 0f511c23ecb956047444e295fc6531d3
+SHA1: d52a642cab91e455d577ce2dd5b6eb6b3e2f167e
+SHA256: f6e103a13db388430dfb758da30b39f6334a57938be1bf02d834fc9074023d78
 Section: NTweaks
 Priority: required
 Description: Adds setup files, icons and sources to repo
