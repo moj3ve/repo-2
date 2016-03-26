@@ -1,0 +1,8 @@
+#!/bin/sh
+echo
+echo
+
+ "Thanks for adding Nrepo"
+ "Please enjoy"
+echo
+exit 0
