@@ -1,13 +1,13 @@
 Package: com.NsBm0d.Nicon
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsbm0d.nicon_1.0.2_iphoneos-arm.deb
-Size: 12388
-MD5sum: baf2d1b95a7ab4f3b1c2093db251b63d
-SHA1: 8286e2d5819dac911fc60dc2405c0e17e62092f8
-SHA256: db7a42d09d982a9ad1734b9a477fef8e320d14104bef5fe4074988d545122ff5
+Filename: ./debs//com.nsbm0d.nicon_1.0.3_iphoneos-arm.deb
+Size: 12392
+MD5sum: af793deffb021e6b51afd4dc07c4c0cb
+SHA1: b40ae21c2a73bec41ec0f41752131ea3b058f0e2
+SHA256: 843aa77043149caa052c75a36c74b8bca3659cdaa9726f1543c0be4692a8098a
 Section: NTweaks
 Priority: required
 Description: Adds setup files, icons and sources to repo
