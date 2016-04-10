@@ -1,3 +1,2 @@
-#!/bin/bash
-find debs -type f -name '*.deb' -delete
+rm -r *.deb
 rm -r Packages.bz2
