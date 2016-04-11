@@ -1,19 +1,19 @@
 <package>
 	<id>com.Nrepo.NsB</id>
 	<name>NsB</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
-                        <maxiOS>9.0+</maxiOS>
+      <maxiOS>9.0+</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>Anemone</package>
+		<package></package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>This is a Theme.</description>
+		<description>It has a Crystal Apple start up screen.</description>
 		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -31,14 +31,14 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Nrepo NsB Theme</name>
+			<url>https://youtu.be/i9D9MzvH3s0</url>
 		</link>
 	</links>
 </package>
