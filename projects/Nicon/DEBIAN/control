@@ -4,6 +4,7 @@ Architecture: iphoneos-arm
 Section: NTweaks
 Author:  NsBm0d 
 Depiction: https://github.com/Nrepo/Nrepo.github.io/depiction.php?package=Nicon
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
 Description: Adds setup files, icons and sources to repo
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Sponsor: http://nrepo.github.io/
