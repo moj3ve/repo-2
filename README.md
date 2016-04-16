@@ -77,7 +77,7 @@ This data are the links that appear at the bottom of every depication. The data 
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/@NsBm0d</url>
+			<url>https://twitter.com/NsBm0d</url>
 			<iconclass>glyphicon glyphicon-user</iconclass>
 		</link>
 		<link>
