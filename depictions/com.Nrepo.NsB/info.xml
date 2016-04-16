@@ -9,13 +9,13 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package></package>
 		<links>
 			<link>
 				<name>Nrepo NsB Theme</name>
 				<url>https://youtu.be/lxIToc40pWM</url>
 			</link>
 		</links>
-		<package></package>
 	</dependencies>
 	<descriptionlist>
 		<description>This is a Theme.</description>
