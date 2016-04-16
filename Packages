@@ -1,18 +1,18 @@
 Package: com.Nrepo.Nicon
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nrepo.nicon_1.0.2_iphoneos-arm.deb
+Filename: ./debs//com.nrepo.nicon_1.0.3_iphoneos-arm.deb
 Size: 12088
-MD5sum: 8cb513aa67cb6e322e3a7780d27bb262
-SHA1: 05aaf050d725c698f3b89fd5a06ab1948c50776c
-SHA256: a2f63cb270c12c7bff8b8c2a6e15d3864daefedf167319115b3752a96bbeffaa
+MD5sum: 641b9d59992c119aabd9c0ce5637cff3
+SHA1: e1c0ce4a114852431bcdd332302819dda2857d20
+SHA256: 11acf53dde36bb3da15c9c90f0d63a3b21c0611083fe8512040cc32397d3e696
 Section: aTweaks
 Priority: required
 Description: Adds setup files, icons and sources to repo
 Author:  NsBm0d 
-Depiction: https://github.com/Nrepo/Nrepo.github.io/depiction.php?package=Nicon; https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
+Depiction: https://github.com/Nrepo/Nrepo.github.io/depiction.php?package=Nicon,https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
 Name: Nicon
 Sponsor: http://nrepo.github.io/
 
@@ -22,9 +22,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nrepo.nsb_1.0.2_iphoneos-arm.deb
 Size: 633810
-MD5sum: 9a9c9a073ada70031220dfd5afcd9e3a
-SHA1: 6f3710409addd10d584e94bfb2da254f33afc4c9
-SHA256: 375cf412ea12cc172a78fe592b09f68bdf5773e691c3e2a82783fbe2fd9bb452
+MD5sum: 65b98beb7800175a2731b7a43851c6fa
+SHA1: 3e36fe15f3c2365aea2a8af3af34f325c253c724
+SHA256: fa9729111a489993d78177cbac82985fc78e5e1099309b95bfde3bf334008ef1
 Section: aThemes
 Description: Crystal Apple Theme
 Author:  NsBm0d 
