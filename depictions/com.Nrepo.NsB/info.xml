@@ -9,6 +9,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<links>
+			<link>
+				<name>Nrepo NsB Theme</name>
+				<url>https://youtu.be/lxIToc40pWM</url>
+			</link>
+		</links>
 		<package></package>
 	</dependencies>
 	<descriptionlist>
@@ -35,10 +41,4 @@
 		<change></change>
 		<change></change>
 	</changelog>
-	<links>
-		<link>
-			<name>Nrepo NsB Theme</name>
-			<url>https://youtu.be/lxIToc40pWM</url>
-		</link>
-	</links>
 </package>

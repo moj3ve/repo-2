@@ -76,11 +76,6 @@ This data are the links that appear at the bottom of every depication. The data 
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/NsBm0d</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
-		</link>
-		<link>
 			<name>I want this depiction template</name>
 			<url>https://github.com/Nrepo/Nrepo.github.io</url>
 			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
