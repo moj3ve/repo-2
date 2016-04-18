@@ -24,7 +24,7 @@ Edit `Release` file. Modify the items pointed by `<--`
     Description:  NsBm0d  - a cydia repo template  <--
 
 #### 4. Your repo is ready.
-At this point your repo is basically ready to be added into Cydia. You can also visit your repo's homepage by going to `https://username.github.io/repo/`. It will come with 2 sample packages, Old Package and New Package. Each of the packages have a link on this page pointing to their depictions. Next guide will show you how to assign and customize your depiction pages.
+At this point your repo is basically ready to be added into Cydia. You can also visit your repo's homepage by going to `https://username.github.io/repo/`. It will come with 2 sample packages, Nicon Package and NsB Package. Each of the packages have a link on this page pointing to their depictions. Next guide will show you how to assign and customize your depiction pages.
 
 
 ## Depiction pages for your packages
