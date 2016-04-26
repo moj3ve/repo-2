@@ -37,7 +37,7 @@ Let's start with a simple one. First, of course, add your `.deb` files into the 
 <package>
 	<id>com.Nrepo.Nicon</id>
 	<name>Nicon</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
       <miniOS>7.0</miniOS>
