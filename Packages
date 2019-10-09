@@ -1,9 +1,121 @@
+Package: com.AXCVD.UnSubPrefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.UnSubPrefs_1.0.1_iphoneos-arm.deb
+Size: 1256
+MD5sum: 9f33fa42b94b092ca0a86d75e82e4c6b
+SHA1: f231139939b2fc3f115691c0f2d36a0a6e037b68
+SHA256: aafe982d36f77fa789d74359a7cc3a90bfee762c82d687eff43f958d28dd4cf9
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.UnSubPrefs
+Name: UnSubPrefs繁體中文化
+
+Package: com.AXCVD.Vesta
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.Vesta_1.0.1_iphoneos-arm.deb
+Size: 1294
+MD5sum: 335c93f8762b60e6125fbc8684175638
+SHA1: bb78094e8c8fd99b61273dbd27db892025945419
+SHA256: 986f6066c01cd430e873a7bea2d603d49f4dbe6cf3fb43bc591b413bfd49e88e
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.Vesta
+Name: Vesta繁體中文化
+
+Package: com.AXCVD.WiiVampPref
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.WiiVampPref_1.0.1_iphoneos-arm.deb
+Size: 1246
+MD5sum: fd9b2235c923c65ca33e1c6fb5f71ae6
+SHA1: df26ef855e76201cb2d41fe55ff803ca6c3dab00
+SHA256: 5a05f755d49eb3435eea86a9a91b934455bb94a509d3c6ee50d33034f1b540b9
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.WiiVampPref
+Name: WiiVampPref繁體中文化
+
+Package: com.AXCVD.XenInfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.XenInfo_1.0.1_iphoneos-arm.deb
+Size: 2916
+MD5sum: 9f2104642cf56264930ca8e59034a11a
+SHA1: 76205d16972e88a3d57414103f2fe89cd6892465
+SHA256: 4ca0df4b69c4ec4ba1994268210c056adbdf1cf1e9e6a9d20031a54649524aad
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.XenInfo
+Name: XenInfo繁體中文化
+
+Package: com.AXCVD.unlocksound7prefs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.unlocksound7prefs_1.0.1_iphoneos-arm.deb
+Size: 1502
+MD5sum: 8ff6cdd442ad5b69c96869cdeff22733
+SHA1: cae6bc4ca6573b49b9e1e9324616b36789556b11
+SHA256: 9e08224f32f3e1a99ea7d7b9d2be8e4ba11f95dfe540207477c46ea2fc5a4245
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.unlocksound7prefs
+Name: unlocksound7prefs繁體中文化
+
+Package: com.AXCVD.voicechanger
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.voicechanger_1.0.1_iphoneos-arm.deb
+Size: 1856
+MD5sum: 59ced72c2f512e0d09ad3ef1ee33a6f6
+SHA1: 96a777a273d4c0187af0480be89c86c22a700dc9
+SHA256: 0b47099ba27c1b147f705636cf5712d6507ef99605327a61550103e12ec06af7
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.voicechanger
+Name: voicechanger繁體中文化
+
+Package: com.AXCVD.youtubetools
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 小謝 <vv741852v@gmail.com>
+Depends: mobilesubstrate
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.youtubetools_1.0.1_iphoneos-arm.deb
+Size: 2040
+MD5sum: f764dcbcae92ee1e7394d0781a767153
+SHA1: d2f7f3af66f2b0e722ff87dd2ed213630c134f96
+SHA256: 55e1d4e3ee1c65b786ccc0e0a6d8071710c7a35b8af2e62138b22135b0210cf5
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: 小謝 <vv741852v@gmail.com>
+Depiction: https://AXCVD.github.io/depictions/?p=com.mrmadjb.youtubetools
+Name: youtubetools繁體中文化
+
 Package: com.Nrepo.Nicon
 Version: 1.0.4
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nrepo.nicon_1.0.4_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.nicon_1.0.4_iphoneos-arm.deb
 Size: 12062
 MD5sum: 16c272cd218bec8ec146fe92b277b257
 SHA1: 60286cc76cf57f313976e1d2c35201608588d681
@@ -20,7 +132,7 @@ Package: com.Nrepo.NsB
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nrepo.nsb_1.0.2_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.nrepo.nsb_1.0.2_iphoneos-arm.deb
 Size: 633808
 MD5sum: 54b72a652c052596bcc8a7bc317833c8
 SHA1: ea46194854ea045235b349f5f175160c7f2361ef
