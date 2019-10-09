@@ -1,24 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/CaseyCZ/repo</url>
-			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
-		</link>
-		 <link>
-			<name>Twitter</name>
-			<url>https://twitter.com/Searcasey</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
-		</link>
-		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/CaseyCZ/</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
-		</link>
-		<link>
-			<name>PayPal</name>
-			<url>https://paypal.me/kyselalukas</url>
-			<iconclass>glyphicon glyphicon-heart</iconclass>
+			<name>網站</name>
+			<url>https://github.com/AXCVD/repo</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
