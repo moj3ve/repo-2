@@ -3,7 +3,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.UnSubPrefs_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.UnSubPrefs_1.0.1_iphoneos-arm.deb
 Size: 1270
 MD5sum: c8e531667fe656e08afc5ed2b5c3278a
 SHA1: 654ca95d6716b48ba2362f741fb154c72873570b
@@ -19,7 +19,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.Vesta_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.Vesta_1.0.1_iphoneos-arm.deb
 Size: 1310
 MD5sum: 68389bb0dfe7521d83cc51f1f957504f
 SHA1: 212a4469d933b0635fbaecc251d8fcb216dc5c6d
@@ -35,7 +35,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.WiiVampPref_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.WiiVampPref_1.0.1_iphoneos-arm.deb
 Size: 1264
 MD5sum: 6ef136e2b92a1baaa8f2a7091260d1ac
 SHA1: 2338760c6471ff58cb478687b0407cf08b5f53ec
@@ -51,7 +51,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.XenInfo_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.XenInfo_1.0.1_iphoneos-arm.deb
 Size: 2928
 MD5sum: 96a8edebd58b28ce3bbb780025653955
 SHA1: 8a6edfa57c254afd2fec7e296fc3d6a9e7c653d0
@@ -67,7 +67,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.unlocksound7prefs_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.unlocksound7prefs_1.0.1_iphoneos-arm.deb
 Size: 1516
 MD5sum: ffc1e10fb9fb9a3e43abe0bbbf272c40
 SHA1: adf03940783bcfc1eab54e755d09b23d4719bbda
@@ -83,7 +83,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.voicechanger_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.voicechanger_1.0.1_iphoneos-arm.deb
 Size: 1876
 MD5sum: 1484904f00569eee3180dca326dd4237
 SHA1: b836b1b806b348babaeed823ce799d42784b0b4f
@@ -99,7 +99,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.youtubetools_1.0.1_iphoneos-arm.deb
+Filename: ./Documents/GitHub/repo/debs/com.axcvd.youtubetools_1.0.1_iphoneos-arm.deb
 Size: 2060
 MD5sum: 26325f2db93373d5f7a5eff14333a158
 SHA1: acab9d876118c7c357041e14f269e27dac4720f5
