@@ -1,145 +1,112 @@
-Package: com.AXCVD.UnSubPrefs
+Package: com.axcvd.UnSubPrefs
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.UnSubPrefs_1.0.1_iphoneos-arm.deb
 Size: 1270
-MD5sum: 08377cd37e49898605e9fe7d5dfa9fde
-SHA1: 165a2844f68775a8af19079ffcd86da9e6aed2d3
-SHA256: d97ff6d9113c1394a92b405eacd1d52cb4d6a05261e4822bca4eae89fd44d060
+MD5sum: c8e531667fe656e08afc5ed2b5c3278a
+SHA1: 654ca95d6716b48ba2362f741fb154c72873570b
+SHA256: 274298237558fcb56914ba9409140ef37d14599b3aa1ffceec6be13ea4fd26f4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.UnSubPrefs
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.UnSubPrefs
 Name: UnSubPrefs繁體中文化
 
-Package: com.AXCVD.Vesta
+Package: com.axcvd.Vesta
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.Vesta_1.0.1_iphoneos-arm.deb
-Size: 1312
-MD5sum: 2f08f6a7b84835f88099a8523d2f973a
-SHA1: 0e92087cd76abdf07b3b95232c109913f4a08173
-SHA256: 6477fba375bf2006a7b962fca94b34ca90db3b721e4e44ef35fe8809d5a6f0b7
+Size: 1310
+MD5sum: 68389bb0dfe7521d83cc51f1f957504f
+SHA1: 212a4469d933b0635fbaecc251d8fcb216dc5c6d
+SHA256: b103ed092e7b6a4c02af96d8a78f02bc84c34c9faa5330e1b5c2a4a88e0bceb9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.Vesta
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vesta
 Name: Vesta繁體中文化
 
-Package: com.AXCVD.WiiVampPref
+Package: com.axcvd.WiiVampPref
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.WiiVampPref_1.0.1_iphoneos-arm.deb
-Size: 1262
-MD5sum: f23ffe1673bc8f1849dd5b6a2d791dbe
-SHA1: e71cb2eaa05f7a4387e20225dd421adfafbf74ed
-SHA256: 2757fef18ec1f291f0d59c7d9c8e0bc5b01f1723950cb74ee99e7e46185ad09a
+Size: 1264
+MD5sum: 6ef136e2b92a1baaa8f2a7091260d1ac
+SHA1: 2338760c6471ff58cb478687b0407cf08b5f53ec
+SHA256: b5dcce679c5535c5217a390d8e6b87b18aa0d7a376ef2dfe2ac1cb0826ff25e0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.WiiVampPref
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.WiiVampPref
 Name: WiiVampPref繁體中文化
 
-Package: com.AXCVD.XenInfo
+Package: com.axcvd.XenInfo
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.XenInfo_1.0.1_iphoneos-arm.deb
-Size: 2930
-MD5sum: 4a124dcbb5bb98da4cb7697706f12da2
-SHA1: 5fce0d2316506a993ea9ca615384ff6fc353e372
-SHA256: 2705b213bfc91990847624389d1c894c9639e7e4627e146585b6ceeec25a171c
+Size: 2928
+MD5sum: 96a8edebd58b28ce3bbb780025653955
+SHA1: 8a6edfa57c254afd2fec7e296fc3d6a9e7c653d0
+SHA256: bc3b4b872784e39330f415c20cd654e7781e04600fca81b5d9d07652eae0375d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.XenInfo
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.XenInfo
 Name: XenInfo繁體中文化
 
-Package: com.AXCVD.unlocksound7prefs
+Package: com.axcvd.unlocksound7prefs
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.unlocksound7prefs_1.0.1_iphoneos-arm.deb
-Size: 1514
-MD5sum: 37660ea7da05d5d2e2c48321390ee2d4
-SHA1: 3d0d51fce2fea226dc7290d3ecd3136c0675094a
-SHA256: aeb068eb5f686fb9b0a889f61290e935fc0e919936c7d22e858c762935f86a15
+Size: 1516
+MD5sum: ffc1e10fb9fb9a3e43abe0bbbf272c40
+SHA1: adf03940783bcfc1eab54e755d09b23d4719bbda
+SHA256: a46ca0a451440dae2d95f994ef55dc2248c4d315f7d2321c296a6473fe61e729
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.unlocksound7prefs
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.unlocksound7prefs
 Name: unlocksound7prefs繁體中文化
 
-Package: com.AXCVD.voicechanger
+Package: com.axcvd.voicechanger
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.voicechanger_1.0.1_iphoneos-arm.deb
-Size: 1874
-MD5sum: a4baad62e8f84a96ff34f18d0bae157c
-SHA1: c7be13e91c08ef82d42159fe506dadd554ec89ae
-SHA256: 8959c482076db00fe5e390ce6219b101aece64bb9ce282a46b8cf4724aca510c
+Size: 1876
+MD5sum: 1484904f00569eee3180dca326dd4237
+SHA1: b836b1b806b348babaeed823ce799d42784b0b4f
+SHA256: a43b1c56349b3282d9828ea57657b54bc4d0b026e39839b5c07e4aae7b1b2551
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.voicechanger
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.voicechanger
 Name: voicechanger繁體中文化
 
-Package: com.AXCVD.youtubetools
+Package: com.axcvd.youtubetools
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 小謝 <vv741852v@gmail.com>
 Depends: mobilesubstrate
 Filename: ./Documents/GitHub/repo/debs/com.nrepo.youtubetools_1.0.1_iphoneos-arm.deb
-Size: 2058
-MD5sum: 757155040c1aa6440d5e3107813fb28f
-SHA1: 765df0d3722976cf5a2d2001e0302a013de41eb9
-SHA256: 2597a72ef5f6eff00a0cc3b2afc7c0e12b0c188ede97f54e44271c3923dd31dd
+Size: 2060
+MD5sum: 26325f2db93373d5f7a5eff14333a158
+SHA1: acab9d876118c7c357041e14f269e27dac4720f5
+SHA256: e7539cc1e5de3edd4433ebb25be2a35374aa465d338f2ebdd63d3fa919e74c61
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://AXCVD.github.io/depictions/?p=com.AXCVD.youtubetools
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.youtubetools
 Name: youtubetools繁體中文化
-
-Package: com.Nrepo.Nicon
-Version: 1.0.4
-Architecture: iphoneos-arm
-Essential: yes
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.nicon_1.0.4_iphoneos-arm.deb
-Size: 12062
-MD5sum: 16c272cd218bec8ec146fe92b277b257
-SHA1: 60286cc76cf57f313976e1d2c35201608588d681
-SHA256: 4ec4c749dce9e0adea4c0ba824d4c967179b457cccdef338a1c3027d017cc560
-Section: aTweaks
-Priority: required
-Description: Adds setup files, icons and sources to repo
-Author:  NsBm0d 
-Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
-Name: Nicon
-Sponsor: http://nrepo.github.io/
-
-Package: com.Nrepo.NsB
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./Documents/GitHub/repo/debs/com.nrepo.nsb_1.0.2_iphoneos-arm.deb
-Size: 633808
-MD5sum: 54b72a652c052596bcc8a7bc317833c8
-SHA1: ea46194854ea045235b349f5f175160c7f2361ef
-SHA256: b4a175c5d09b79b1c45ad6f542fa582066f2c2eef31f16fda34d10bae9a84200
-Section: aThemes
-Description: Crystal Apple Theme
-Author:  NsBm0d 
-Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.NsB
-Name: NsB
 
