@@ -1,0 +1,9 @@
+{
+    "Color scheme" = "\U914d\U8272\U65b9\U6848";
+    Dark = "\U6697";
+    "DarkChrome Theme" = "\U9ed1\U6697Chrome\U4e3b\U984c";
+    "Flat Dark" = "\U5e73\U5766\U7684\U9ed1\U6697";
+    "Incognito Indicator" = "\U96b1\U8eab\U6307\U793a\U5668";
+    "Invert the colors of the Omnibox search button when you're in incognito" = "\U5728\U96b1\U59d3\U57cb\U540d\U6642\U53cd\U8f49\U591a\U529f\U80fd\U6846\U641c\U7d22\U6309\U9215\U7684\U984f\U8272";
+    "True Black" = "\U771f\U9ed1";
+}

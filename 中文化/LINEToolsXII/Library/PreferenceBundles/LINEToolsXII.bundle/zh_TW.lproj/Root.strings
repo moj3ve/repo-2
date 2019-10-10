@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apply Changed</key>
+	<string>應用已更改</string>
+	<key>Main Settings</key>
+	<string>主要設置</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Sub Settings</key>
+	<string>子設置</string>
+	<key>Tab Settings</key>
+	<string>標籤設置</string>
+	<key>created by</key>
+	<string>由...製作</string>
+	<key>サブ機能の設定</key>
+	<string>子功能設置</string>
+	<key>タブ機能の設定</key>
+	<string>標籤功能設置</string>
+	<key>メイン機能の設定</key>
+	<string>主要功能設置</string>
+	<key>兎 (@uta_sugi)</key>
+	<string>兎 (@uta_sugi) 中文化 小謝</string>
+</dict>
+</plist>

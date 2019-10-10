@@ -1,0 +1,11 @@
+Package: com.yourepo.cbprefs.libertypref1
+Name: CopyLog繁體中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: CopyLog 繁體中文化
+Author: 小謝 <vv741852v@gmail.com>
+Section: X Window
+Depends: firmware (>=11.0)
+Maintainer: 小謝 <vv741852v@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+

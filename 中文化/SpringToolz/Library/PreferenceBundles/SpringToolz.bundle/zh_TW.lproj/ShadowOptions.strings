@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HORIZONTAL SHADOW DEVIATION</key>
+	<string>水平陰影偏差</string>
+	<key>Move shadow left to right. Defaults to centered.</key>
+	<string>從左到右移動陰影。 默認為居中。</string>
+	<key>Move shadow up to down. Defaults to centered.</key>
+	<string>將陰影向上移動。 默認為居中。</string>
+	<key>SHADOW INTENSITY</key>
+	<string>陰影強度</string>
+	<key>Shadow Color</key>
+	<string>陰影顏色</string>
+	<key>VERTICAL SHADOW DEVIATION</key>
+	<string>垂直陰影偏差</string>
+</dict>
+</plist>

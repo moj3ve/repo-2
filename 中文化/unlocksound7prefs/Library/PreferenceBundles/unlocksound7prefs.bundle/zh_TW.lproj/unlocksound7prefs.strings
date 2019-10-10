@@ -1,0 +1,14 @@
+{
+    "CUSTOM VOLUME LEVEL" = "\U5b9a\U5236\U97f3\U91cf";
+    "Custom Volume" = "\U81ea\U5b9a\U7fa9\U5377";
+    "Custom Volume Level" = "\U81ea\U5b9a\U7fa9\U97f3\U91cf\U7d1a\U5225";
+    Donate = "\U6350";
+    Enabled = "\U555f\U7528";
+    "Follow me on twitter" = "\U5728\U63a8\U7279\U4e0a\U95dc\U6ce8\U6211";
+    "If enable then you can set your own volume level for the unlock sound. \nNOTE: Custom volume level depends on the media volume." = "\U5982\U679c\U555f\U7528\Uff0c\U5247\U53ef\U4ee5\U70ba\U89e3\U9396\U8072\U97f3\U8a2d\U7f6e\U81ea\U5df1\U7684\U97f3\U91cf\U7d1a\U5225\U3002\n\U6ce8\U610f\Uff1a\U81ea\U5b9a\U7fa9\U97f3\U91cf\U7d1a\U5225\U53d6\U6c7a\U65bc\U5a92\U9ad4\U97f3\U91cf\U3002";
+    "If you like my work, please consider a donation. Thanks!" = "\U5982\U679c\U60a8\U559c\U6b61\U6211\U7684\U4f5c\U54c1\Uff0c\U8acb\U8003\U616e\U6350\U8d08\U3002 \U8b1d\U8b1d\Uff01";
+    "Place your own custom sound named unlock.caf here:\n/var/mobile/unlock.caf\nIf the file doesn't exist the standard iOS sound will be used." = "\U5728\U9019\U88e1\U653e\U7f6e\U540d\U70baunlock.caf\U7684\U81ea\U5b9a\U7fa9\U8072\U97f3\Uff1a\n/var/mobile/unlock.caf\n\U5982\U679c\U6587\U4ef6\U4e0d\U5b58\U5728\Uff0c\U5c07\U4f7f\U7528\U6a19\U6e96iOS\U8072\U97f3\U3002";
+    SOUND = "\U8072\U97f3";
+    Sound = "\U8072\U97f3";
+    "Test sound" = "\U6e2c\U8a66\U8072\U97f3";
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Other Toggles/Modules</key>
+	<string>所有其他切換/模塊</string>
+	<key>Apply Colors to Preview</key>
+	<string>應用顏色預覽</string>
+	<key>Background Settings</key>
+	<string>背景設置</string>
+	<key>Border Width</key>
+	<string>邊框寬度</string>
+	<key>Button/Module Corner Radius</key>
+	<string>按鍵/模塊角半徑</string>
+	<key>Button/Module Customization</key>
+	<string>按鍵/模塊定制</string>
+	<key>Choose Background Color</key>
+	<string>選擇背景顏色</string>
+	<key>Choose Custom Color</key>
+	<string>選擇自定義顏色</string>
+	<key>Choose Glow Color</key>
+	<string>選擇發光顏色</string>
+	<key>Choose Gradient Color 1</key>
+	<string>選擇漸變顏色1</string>
+	<key>Choose Gradient Color 2</key>
+	<string>選擇漸變顏色2</string>
+	<key>Choose Gradient Color 3</key>
+	<string>選擇漸變顏色3</string>
+	<key>Choose Gradient Color 4</key>
+	<string>選擇漸變顏色4</string>
+	<key>Enable Button Borders and Glow</key>
+	<string>啟用按鈕邊框和發光</string>
+	<key>Enable Color Background</key>
+	<string>啟用彩色背景</string>
+	<key>Enable Gradient Background</key>
+	<string>啟用漸變背景</string>
+	<key>Enable the borders and glow</key>
+	<string>啟用邊框並發光</string>
+	<key>Glow Opacity</key>
+	<string>發光不透明</string>
+	<key>Glow Radius</key>
+	<string>發光半徑</string>
+	<key>Gradient End Point X</key>
+	<string>漸變端點X.</string>
+	<key>Gradient End Point Y</key>
+	<string>漸變和點Y.</string>
+	<key>Gradient Start Point X</key>
+	<string>漸變起點X.</string>
+	<key>Gradient Start Point Y</key>
+	<string>漸變起點Y.</string>
+	<key>Preview Background Changes</key>
+	<string>預覽背景更改</string>
+	<key>Remove Button Background</key>
+	<string>刪除按鈕背景</string>
+	<key>Remove Selected Background</key>
+	<string>刪除所選背景</string>
+	<key>Remove background from buttons/modules (unselected)</key>
+	<string>從按鈕中刪除背景/模塊（未選中）</string>
+	<key>Remove background from selected/enabled buttons/modules (selected)</key>
+	<string>從選定中刪除背景/啟用按鈕/模塊（選中）</string>
+	<key>Respring to apply settings</key>
+	<string>響應以應用設置</string>
+	<key>Set corner radius for CC buttons and modules, iOS default is 19</key>
+	<string>設置CC按鈕和模塊的轉角半徑，iOS默認值為19</string>
+	<key>This is where the gradient will end in relativity to Height. Setting it to 1 will be the the bottom of the screen height wise.</key>
+	<string>這是漸變與高度相關的結束點。 將其設置為1將是屏幕高度的底部。</string>
+	<key>This is where the gradient will end in relativity to width. Setting it to 1 will be the far right of the screen width wise.</key>
+	<string>這是漸變與寬度相關的結束點。 將其設置為1將是屏幕寬度的最右側。</string>
+	<key>This is where the gradient will start in relativity to height. Setting it to 0.5 will be halfway down the screen height wise.</key>
+	<string>這是漸變開始與高度相關的地方。 將其設置為0.5將是屏幕高度的一半。</string>
+	<key>This is where the gradient will start in relativity to width. Setting it to 0.5 will be halfway across the screen width wise.</key>
+	<string>這是梯度與寬度相關的起始位置。 將其設置為0.5將是屏幕寬度的一半。</string>
+</dict>
+</plist>

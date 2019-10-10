@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Blacklist applications</key>
+	<string>黑名單申請</string>
+	<key>Contact</key>
+	<string>聯繫</string>
+	<key>Email</key>
+	<string>電子郵件</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Frozen Penguin (Reddit)</key>
+	<string>冷凍企鵝（Reddit）中文化：小謝</string>
+	<key>Hide home bar</key>
+	<string>隱藏家庭酒吧</string>
+</dict>
+</plist>

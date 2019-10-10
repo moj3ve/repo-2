@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable camera</key>
+	<string>禁用相機</string>
+	<key>Disable wake for power connected</key>
+	<string>禁用充電連接時喚醒</string>
+	<key>Enable custom "Press home to unlock"</key>
+	<string>啓用自定義”按下主屏幕按鈕以解鎖”</string>
+	<key>Enable status time</key>
+	<string>啓用狀態欄時間</string>
+	<key>Enter text here</key>
+	<string>在這裡輸入文本</string>
+	<key>Hide "Emergency" button</key>
+	<string>隱藏 “緊急情況” 按鈕</string>
+	<key>Hide "Press home to unlock"</key>
+	<string>隱藏 “按下主屏幕按鈕以解鎖”</string>
+	<key>Hide now playing widget</key>
+	<string>隱藏正在播放小部件</string>
+	<key>Hide padlock/unlock text</key>
+	<string>隱藏 鎖定/解鎖 文本</string>
+	<key>Hide page dots</key>
+	<string>隱藏頁面指示點</string>
+	<key>Lockscreen Settings</key>
+	<string>鎖屏界面設置</string>
+	<key>Music</key>
+	<string>音樂</string>
+	<key>Page</key>
+	<string>頁面</string>
+	<key>Passcode Screen</key>
+	<string>解鎖密碼屏幕</string>
+	<key>Power</key>
+	<string>電源</string>
+	<key>Small status bar</key>
+	<string>縮小狀態欄</string>
+	<key>Status bar</key>
+	<string>狀態欄</string>
+</dict>
+</plist>

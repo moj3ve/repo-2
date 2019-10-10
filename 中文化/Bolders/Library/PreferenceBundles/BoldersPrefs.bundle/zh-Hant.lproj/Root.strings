@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COL</key>
+	<string>→每行圖標</string>
+	<key>Count Text:</key>
+	<string>計數文本:</string>
+	<key>Disabled</key>
+	<string>禁用</string>
+	<key>Example: $t has $c apps.
+Result: FolderName has 23 apps.</key>
+	<string>例句: $ 有 c 應用程序。結果: FolderName擁有23個應用程序。</string>
+	<key>Expanded</key>
+	<string>擴展</string>
+	<key>Label Options:</key>
+	<string>標籤選項:</string>
+	<key>Landscape</key>
+	<string>橫屏顯示</string>
+	<key>Only disable if something else handles your icon layout, else do not for reasons below.</key>
+	<string>只有在其他東西處理您的圖標佈局時才會禁用，否則請不要出於以下原因。</string>
+	<key>Portrait</key>
+	<string>竪屏顯示</string>
+	<key>ROWS</key>
+	<string>圖標佈局:(更改前查看底部說明）
+
+↓每頁行數</string>
+	<key>Warning: Be aware that shrinking these values alters the maximum icons per page and therefore the layout of all folders with it.
+
+Example:
+You are currently using a setting of 5 rows, with 4 icons per row  = 20 icons per page.
+You change the settings to 3 x 3, which limits your folders to 9 icons per page. 
+Now all existing pages that exceed 9 icons will be divided by your new limit. In this example, one page with 20 icons would become 3 pages of 9+9+2.</key>
+	<string>警告：請注意，縮小這些值會改變每頁的最大圖標數，從而改變所有文件夾的佈局。
+
+例：
+您當前使用的是5行設置，每行4個圖標=每頁20個圖標。
+您將設置更改為3 x 3，這會將您的文件夾限制為每頁9個圖標。
+現在，超過9個圖標的所有現有頁面將除以新的限制。在此示例中，具有20個圖標的一頁將變為3頁9 + 9 + 2。</string>
+</dict>
+</plist>

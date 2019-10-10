@@ -1,0 +1,11 @@
+Package: com.yourepo.cbprefs.libertypref1
+Name: BottomToolBar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BottomToolBar BottomToolBar BottomToolBar
+Author: 小謝 <vv741852v@gmail.com>
+Section: X Window
+Depends: firmware (>=11.0)
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Maintainer: 小謝 <vv741852v@gmail.com>
+

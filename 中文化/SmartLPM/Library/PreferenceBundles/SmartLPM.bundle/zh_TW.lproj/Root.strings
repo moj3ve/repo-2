@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auto Low Power Mode</key>
+	<string>自動低功耗模式</string>
+	<key>Battery Alert</key>
+	<string>電池警報</string>
+	<key>Disable LPM At Set % (Charging) </key>
+	<string>在設置％（充電）時禁用LPM</string>
+	<key>Disable Low Power Alert</key>
+	<string>禁用低功耗警報</string>
+	<key>Enable Tweak</key>
+	<string>啟用調整</string>
+	<key>Enable/disable auto lpm and set percentage:</key>
+	<string>啟用/禁用自動lpm並設置百分比：</string>
+	<key>Enable/disable battery level alert and set percentage</key>
+	<string>啟用/禁用電池電量警報並設置百分比</string>
+	<key>Enable/disable turn off lpm at % while charging and set the percentage</key>
+	<string>啟用/禁用在充電時關閉lpm at％並設置百分比</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Follow me on Twitter</key>
+	<string>在推特上關注我</string>
+	<key>How to Use</key>
+	<string>如何使用</string>
+	<key>Links</key>
+	<string>鏈接</string>
+	<key>Low Power While Charging</key>
+	<string>充電時功耗低</string>
+	<key>Low Power While Locked</key>
+	<string>鎖定時功率低</string>
+	<key>Main Settings</key>
+	<string>主要設定</string>
+	<key>No AutoLock on LPM(iOS 11+)</key>
+	<string>LPM上沒有自動鎖定（iOS 11+）</string>
+	<key>No respring needed for changes !!</key>
+	<string>改變不需要響應!!</string>
+	<key>Senior Settings</key>
+	<string>進階設定</string>
+	<key>Shortcut Button</key>
+	<string>快捷按鈕</string>
+</dict>
+</plist>

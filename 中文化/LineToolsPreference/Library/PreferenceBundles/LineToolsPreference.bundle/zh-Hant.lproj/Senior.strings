@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always Share</key>
+	<string>永遠分享</string>
+	<key>Custom Format</key>
+	<string>自定義格式</string>
+	<key>Enable LinkInvitation</key>
+	<string>啟用連結邀請功能</string>
+	<key>Friend Search By MID</key>
+	<string>MID的朋友搜索</string>
+	<key>ID検索でMIDでも検索可能にします。</key>
+	<string>通過ID搜索使ID可搜索。</string>
+	<key>Link Invitation (Japan only)</key>
+	<string>鏈接邀請（僅限日本）</string>
+	<key>Senior Settings</key>
+	<string>進階設定</string>
+	<key>Show Group Infomation</key>
+	<string>顯示群組資訊</string>
+	<key>Unsend Block (Beta)</key>
+	<string>取消發送阻止（測試版）</string>
+	<key>[メンバー]でグループの情報を表示します。</key>
+	<string>查看該群組[ 成員 ]資訊</string>
+	<key>常に共有機能を表示します。</key>
+	<string>始終顯示共享功能。</string>
+	<key>招待リンク機能を有効化します。</key>
+	<string>啟用邀請連結功能</string>
+	<key>送信取り消しを無効化します。</key>
+	<string>禁用發送取消。</string>
+</dict>
+</plist>

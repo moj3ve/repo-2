@@ -1,0 +1,12 @@
+{
+    About = "\U95dc\U65bc";
+    "Enable global" = "\U555f\U7528\U5168\U5c40";
+    Enabled = "\U555f\U7528";
+    "Follow me on GitHub" = "\U5728GitHub\U4e0a\U95dc\U6ce8\U6211";
+    "Follow me on Twitter (@fga)" = "\U5728Twitter\U4e0a\U95dc\U6ce8\U6211\Uff08@fga\Uff09";
+    Global = "\U5168\U7403";
+    Respring = "\U91cd\U65b0\U555f\U52d5";
+    "Send a donation" = "\U767c\U9001\U6350\U6b3e";
+    "Send a feature request" = "\U767c\U9001\U529f\U80fd\U8acb\U6c42";
+    "Switching this on will change ALL switches to show the DayNightSwitch instead of just the Do Not Disturb one" = "\U5c07\U5176\U6253\U958b\U5c07\U66f4\U6539\U6240\U6709\U958b\U95dc\U4ee5\U986f\U793a\U65e5\U591c\U958b\U95dc\Uff0c\U800c\U4e0d\U50c5\U50c5\U662f\U201c\U8acb\U52ff\U6253\U64fe\U201d\U958b\U95dc";
+}

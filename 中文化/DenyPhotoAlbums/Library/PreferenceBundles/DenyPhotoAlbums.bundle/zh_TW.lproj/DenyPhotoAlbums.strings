@@ -1,0 +1,24 @@
+{
+    "Add My Repo on Cydia" = "\U5728Cydia\U4e0a\U6dfb\U52a0\U6211\U7684\U56de\U8cfc";
+    "Additional Features" = "\U9644\U52a0\U529f\U80fd";
+    "Cheers a Beer \Ud83c\Udf7b" = "\U4e7e\U676f\U5564\U9152\Ud83c\Udf7b";
+    "DenyPhotoAlbums \U00a9 2017 by Luca Geek (@CydiaGeek), enjoy it!\n\nThanks @sinfool by Flex Community for his Patches that helped me about the making of this Tweak.\n\nSettings Icon made by Picol." = "DenyPhotoAlbums\U00a92017 Luca Geek\Uff08@CydiaGeek\Uff09\Uff0c\U76e1\U4eab\U5427\Uff01\n  \U4e2d\U6587\U5316\Uff1a\U5c0f\U8b1d\n\U611f\U8b1dFlex\U793e\U5340\U7684@sinfool\U63d0\U4f9b\U7684\U88dc\U4e01\Uff0c\U5e6b\U52a9\U6211\U88fd\U4f5c\U4e86\U9019\U500bTweak\U3002\n\nPicol\U88fd\U4f5c\U7684\U8a2d\U7f6e\U5716\U6a19\U3002";
+    "Enable Max Zoom!" = "\U555f\U7528\U6700\U5927\U7e2e\U653e\Uff01";
+    "Follow me on Twitter" = "\U5728\U63a8\U7279\U4e0a\U95dc\U6ce8\U6211";
+    "FullScreen Photos!" = "\U5168\U5c4f\U7167\U7247\Uff01";
+    "Hide All Albums but Camera Roll!" = "\U96b1\U85cf\U6240\U6709\U76f8\U518a\U4f46\U76f8\U6a5f\U6efe\U52d5\Uff01";
+    "Hide My Albums!" = "\U96b1\U85cf\U6211\U7684\U76f8\U518a\Uff01";
+    "Hide Needless Photo Albums!\n(For Example: Videos, Selfies, Panoramica, Screenshots and so on)." = "\U96b1\U85cf\U4e0d\U5fc5\U8981\U7684\U76f8\U518a\Uff01\n\Uff08\U4f8b\U5982\Uff1a\U8996\U983b\Uff0c\U81ea\U62cd\Uff0c\U5168\U666f\Uff0c\U622a\U5716\U7b49\Uff09\U3002";
+    "Hide People Album!" = "\U96b1\U85cf\U4eba\U7269\U5c08\U8f2f\Uff01";
+    "Hide Places Album!" = "\U96b1\U85cf\U5730\U9ede\U76f8\U518a\Uff01";
+    "Hide Preview Photo Album!" = "\U96b1\U85cf\U9810\U89bd\U76f8\U518a\Uff01";
+    "Hide Recently Deleted Album!" = "\U96b1\U85cf\U6700\U8fd1\U522a\U9664\U7684\U76f8\U518a\Uff01";
+    "My Tweaks on BigBoss Repo" = "\U6211\U5c0dBigBoss Repo\U7684\U8abf\U6574";
+    "No Respring Needed for enabling/disabling the options: just kill Photos App from the Switcher and open it again to see the Changes!" = "\U7121\U9700\U97ff\U61c9\U555f\U7528/\U7981\U7528\U9078\U9805\U9700\U8981\Uff1a\U53ea\U9700\U5f9eSwitcher\U4e2d\U522a\U9664Photos App\U4e26\U518d\U6b21\U6253\U958b\U5b83\U4ee5\U67e5\U770b\U66f4\U6539\Uff01";
+    "No Swipe Up Photos Menu!" = "\U6c92\U6709\U5411\U4e0a\U6ed1\U52d5\U7167\U7247\U83dc\U55ae\Uff01";
+    "Other Tweaks by Me:" = "\U6211\U7684\U5176\U4ed6\U8abf\U6574\Uff1a";
+    "Show StatusBar on Landscape!" = "\U5728\U666f\U89c0\U4e0a\U986f\U793a\U72c0\U614b\U6b04\Uff01";
+    "Skip Delete Confirmation!" = "\U8df3\U904e\U522a\U9664\U78ba\U8a8d\Uff01";
+    "Tweak Enable!" = "\U8abf\U6574\U555f\U7528\Uff01";
+    "Twitter/Repository Developer and Credits" = "Twitter / Repository\U958b\U767c\U4eba\U54e1\U548c\U5b78\U5206";
+}

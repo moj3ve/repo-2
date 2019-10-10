@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Created by</key>
+	<string>由...製作</string>
+	<key>Custom Text:</key>
+	<string>自定義文字：</string>
+	<key>Gestures</key>
+	<string>手勢</string>
+	<key>Gestures: Long pressing on an app switcher card will also lock/unlock it! Use this switch to disable gestures.</key>
+	<string>手勢：長按應用程序切換器卡也會鎖定</string>
+	<key>Join our Discord server!</key>
+	<string>加入我們的Discord服務器！</string>
+	<key>Lucifers Circle</key>
+	<string>路西法的圈子</string>
+	<key>Select Apps to lock</key>
+	<string>選擇要鎖定的應用</string>
+	<key>Sets custom (Locked) text</key>
+	<string>設置自定義（鎖定）文本</string>
+	<key>Settings</key>
+	<string>設置</string>
+</dict>
+</plist>

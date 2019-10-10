@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WHATIS_TEXT</key>
+	<string>什麼是文字</string>
+	<key>What is Save/Restore Icon Layout</key>
+	<string>什麼是救命</string>
+</dict>
+</plist>

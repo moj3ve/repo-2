@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dark Background</key>
+	<string>黑暗的背景</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Remove Highlight</key>
+	<string>刪除突出顯示</string>
+	<key>Restart</key>
+	<string>重新啟動</string>
+	<key>Twitter @4nni3_ </key>
+	<string>Twitter @ 4nni3_ 中文化：小謝</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All values are in pixels</key>
+	<string>所有值都以像素為單位</string>
+	<key>Horizontal Icon Padding (px)</key>
+	<string>水平圖標填充（px）</string>
+	<key>How To Use User Config</key>
+	<string>如何使用用戶配置</string>
+	<key>Layout Presets</key>
+	<string>佈局預設</string>
+	<key>Presets and User Settings</key>
+	<string>預設和用戶設置</string>
+	<key>Save as Custom Preset</key>
+	<string>保存為自定義預設</string>
+	<key>Side Icon Inset (px)</key>
+	<string>側面圖標插入（px）</string>
+	<key>Top Icon Inset (px)</key>
+	<string>頂部圖標插入（px）</string>
+	<key>Vertical Icon Padding (px) </key>
+	<string>垂直圖標填充（px）</string>
+</dict>
+</plist>

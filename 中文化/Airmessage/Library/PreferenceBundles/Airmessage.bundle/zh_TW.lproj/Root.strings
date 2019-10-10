@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Authentication</key>
+	<string>身份驗證</string>
+	<key>Default - Username:User Password:password</key>
+	<string>默認 - 用戶名：用戶密碼：密碼</string>
+	<key>Enabled</key>
+	<string>開啓</string>
+	<key>Follow me on Twitter @SparkDev_</key>
+	<string>作者推特</string>
+	<key>HTTPS Enabled</key>
+	<string>啓用 HTTPS</string>
+	<key>Note: If you have issues loading messages on first run, please try opening your messages application, and respring your device. It may take a couple of resprings if they do not load first try!</key>
+	<string>注意：如果在首次運行時加載郵件時遇到問題，請嘗試打開郵件應用程序，然後註銷您的設備。如果他們不先加載，可能需要幾次註銷！</string>
+	<key>Password</key>
+	<string>密碼</string>
+	<key>Port</key>
+	<string>端口</string>
+	<key>Respring</key>
+	<string>註銷設備</string>
+	<key>Settings</key>
+	<string>設置</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>TLS Encryption</key>
+	<string>TLS 加密🔐</string>
+	<key>Username</key>
+	<string>用戶名</string>
+</dict>
+</plist>

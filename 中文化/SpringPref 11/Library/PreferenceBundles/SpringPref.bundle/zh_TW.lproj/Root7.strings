@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>(slide left)0 --- 100(slide right)</key>
+	<string>(左滑) 0 --- 100 (右滑)</string>
+	<key>Custom Carrier</key>
+	<string>自定義運營商</string>
+	<key>Enable custom carrier</key>
+	<string>啓用自定義運營商</string>
+	<key>Enable fake percentage</key>
+	<string>啓用偽裝電量百分比</string>
+	<key>Enter text here</key>
+	<string>在此輸入文本</string>
+	<key>Fake battery percentage</key>
+	<string>偽裝電量百分比</string>
+	<key>Hide Airplane icon</key>
+	<string>隱藏飛行模式圖標</string>
+	<key>Hide Airplay icon</key>
+	<string>隱藏 Airplay 圖標</string>
+	<key>Hide Alarm icon</key>
+	<string>隱藏鬧鐘圖標</string>
+	<key>Hide Bluetooth Headphone icon</key>
+	<string>隱藏藍牙耳機圖標</string>
+	<key>Hide Bluetooth battery icon</key>
+	<string>隱藏藍牙電池圖標</string>
+	<key>Hide Bluetooth icon</key>
+	<string>隱藏藍牙圖標</string>
+	<key>Hide Data/Wifi</key>
+	<string>隱藏 蜂窩數據/無線網絡</string>
+	<key>Hide DnD icon</key>
+	<string>隱藏勿擾模式圖標</string>
+	<key>Hide Rotation Lock icon</key>
+	<string>隱藏旋轉鎖定圖標</string>
+	<key>Hide Spinning Activity icon</key>
+	<string>隱藏旋轉活動圖標</string>
+	<key>Hide VPN icon</key>
+	<string>隱藏 VPN 圖標</string>
+	<key>Hide battery icon</key>
+	<string>隱藏電池圖標</string>
+	<key>Hide carrier</key>
+	<string>隱藏運營商</string>
+	<key>Hide charging bolt icon</key>
+	<string>隱藏充電閃電圖標</string>
+	<key>Hide location icon</key>
+	<string>隱藏 定位 圖標</string>
+	<key>Hide signal dots</key>
+	<string>隱藏信號強度點</string>
+	<key>Hide time</key>
+	<string>隱藏時間</string>
+	<key>Status Bar</key>
+	<string>狀態欄</string>
+	<key>Status Bar settings</key>
+	<string>狀態欄設置</string>
+</dict>
+</plist>

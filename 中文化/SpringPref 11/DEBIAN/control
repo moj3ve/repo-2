@@ -1,0 +1,10 @@
+Package: com.yourepo.cbprefs.libertypref1
+Name: SpringPref 11繁體中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 安裝前請先安裝好 SpringPref 11安裝前請先安裝好 SpringPref 11
+Author: 小謝 <vv741852v@gmail.com>
+Section: X Window
+Depends: firmware (>=11.0)
+Maintainer: 小謝 <vv741852v@gmail.com>
+

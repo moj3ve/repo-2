@@ -1,0 +1,9 @@
+{
+    "Enable confirmation in switcher menu" = "\U5728\U5207\U63db\U53f0\U83dc\U55ae\U4e2d\U555f\U7528\U78ba\U8a8d";
+    "Enable switcher menu" = "\U555f\U7528\U5207\U63db\U53f0\U83dc\U55ae";
+    Enabled = "\U555f\U7528";
+    "Follow me on Twitter @SparkDev_" = "\U5728Twitter\U4e0a\U95dc\U6ce8\U6211@SparkDev_";
+    Settings = "\U8a2d\U7f6e";
+    Support = "\U652f\U6301";
+    "\U00a9 SparkDev 2018" = "\U00a9 SparkDev 2018 \U4e2d\U6587\U5316\Uff1a\U5c0f\U8b1d";
+}

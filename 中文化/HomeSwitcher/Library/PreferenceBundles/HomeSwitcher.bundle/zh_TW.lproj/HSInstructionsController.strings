@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Appcards -Horizontal Mode</key>
+	<string>App切換水平模式</string>
+	<key>Appcards -Vertical Mode</key>
+	<string>App切換垂直模式</string>
+	<key>Hidden Button - Left</key>
+	<string>隱藏按鈕-左側</string>
+	<key>Hidden Button - Right</key>
+	<string>隱藏按鈕-右</string>
+	<key>Hidden Button - center (below central icon)</key>
+	<string>隱藏按鈕-居中（位於中央圖標下方）</string>
+	<key>Instructions</key>
+	<string>指令</string>
+	<key>•Hold and drag to move the switcher</key>
+	<string>•按住並拖動以移動切換器</string>
+	<key>•Swipe down to open App</key>
+	<string>•向下滑動以打開應用程序</string>
+	<key>•Swipe left to close app </key>
+	<string>•向左滑動關閉應用程序</string>
+	<key>•Swipe right to open App</key>
+	<string>•向右滑動打開應用程序</string>
+	<key>•Swipe up to close app </key>
+	<string>•向上滑動以關閉應用程序</string>
+	<key>•Tap to Scroll to center</key>
+	<string>•點擊可滾動至中心</string>
+	<key>•Tap to Scroll to least recent (Right)</key>
+	<string>•點擊可滾動至最新（右）</string>
+	<key>•Tap to Scroll to most recent (Left)</key>
+	<string>•點擊可滾動至最新（左）</string>
+</dict>
+</plist>

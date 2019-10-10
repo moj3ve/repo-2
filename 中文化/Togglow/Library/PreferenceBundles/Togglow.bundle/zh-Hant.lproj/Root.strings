@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AirDrop Button Settings</key>
+	<string>AirDrop 按鈕</string>
+	<key>Airplane Button Settings</key>
+	<string>飛行模式設置</string>
+	<key>Bluetooth Button Settings</key>
+	<string>藍牙按鈕設置</string>
+	<key>Cellular Button Settings</key>
+	<string>窩蜂數據設置</string>
+	<key>Follow Our Team !!</key>
+	<string>我們的團隊</string>
+	<key>Follow me on Twitter</key>
+	<string>我的推特</string>
+	<key>Hotspot Button Settings</key>
+	<string>熱點按鈕設置</string>
+	<key>Like my work ? I like coffee</key>
+	<string>貝寶捐贈</string>
+	<key>Links</key>
+	<string>聯繫我們</string>
+	<key>Other Modules and Background</key>
+	<string>其他模塊和背景</string>
+	<key>PowerModule</key>
+	<string>電源模塊</string>
+	<key>To see changes expand the connectivity module</key>
+	<string>要查看更改，只需擴展(重按[三維觸控])連接模塊</string>
+	<key>To see changes to the connectivity buttons expand the connectivity module</key>
+	<string>要查看連接按鈕的更改，請展開連接模塊</string>
+	<key>Unified Settings</key>
+	<string>綜合按鈕設置</string>
+	<key>Wanna chat with the team ?</key>
+	<string>和團隊聊聊</string>
+	<key>Wifi Button Settings</key>
+	<string>WiFi按鈕設置</string>
+	<key>smokin1337 © 2019</key>
+	<string>smokin1337 © 2019</string>
+</dict>
+</plist>

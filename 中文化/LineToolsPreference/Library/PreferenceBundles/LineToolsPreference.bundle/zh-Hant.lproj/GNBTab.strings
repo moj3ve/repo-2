@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Timeline</key>
+	<string>時間軸</string>
+	<key>News</key>
+	<string>新聞</string>
+	<key>Call</key>
+	<string>LINE電話</string>
+	<key>Wallet</key>
+	<string>錢包</string>
+	<key>Custom Tab</key>
+	<string>自訂索引標籤</string>
+</dict>
+</plist>

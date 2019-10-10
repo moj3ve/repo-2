@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>About me</key>
+	<string>關於</string>
+	<key>App Switcher</key>
+	<string>應用切換</string>
+	<key>Clean cache and respring</key>
+	<string>註銷</string>
+	<key>Control Center</key>
+	<string>控制中心</string>
+	<key>Lockscreen</key>
+	<string>鎖屏界面</string>
+	<key>Notifications</key>
+	<string>通知中心</string>
+	<key>Please donate here</key>
+	<string>捐贈</string>
+	<key>Report issues to rishanan1996@gmail.com</key>
+	<string>反饋</string>
+	<key>Respring to apply all changes</key>
+	<string>更改設置註銷生效</string>
+	<key>SpringPlus11 Settings</key>
+	<string>小軍刀設置</string>
+	<key>SpringPlus11!</key>
+	<string>小軍刀(IOS11)</string>
+	<key>Springboard</key>
+	<string>系統桌面</string>
+	<key>Status Bar</key>
+	<string>狀態欄項</string>
+	<key>System Apps</key>
+	<string>系統應用</string>
+	<key>System-wide</key>
+	<string>系統設置</string>
+	<key>Widgets</key>
+	<string>小組件項</string>
+</dict>
+</plist>

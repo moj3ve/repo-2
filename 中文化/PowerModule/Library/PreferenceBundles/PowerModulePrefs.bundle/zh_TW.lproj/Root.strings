@@ -1,0 +1,12 @@
+{
+    Confirmations = "\U78ba\U8a8d";
+    "Created By:" = "\U7531...\U88fd\U4f5c\Uff1a";
+    "Icons Created By:" = "\U5275\U5efa\U7684\U5716\U6a19\Uff1a";
+    "Lock screen Confirmation?" = "\U9396\U5c4f\U78ba\U8a8d\Uff1f";
+    "Macs (u/thecoderkiller)" = "Macs\Uff08\U4f60/\U7537\U5973\U540c\U6821\U6bba\U624b\Uff09";
+    "Power down Confirmation?" = "\U65b7\U96fb\U78ba\U8a8d\Uff1f";
+    "Reboot Confirmation?" = "\U91cd\U555f\U78ba\U8a8d\Uff1f";
+    "Respring Confirmation?" = "\U53cd\U5c0d\U78ba\U8a8d\Uff1f";
+    "Safemode Confirmation?" = "\U5b89\U5168\U6a21\U5f0f\U78ba\U8a8d\Uff1f";
+    "UICache Confirmation?" = "UICache\U78ba\U8a8d\Uff1f";
+}

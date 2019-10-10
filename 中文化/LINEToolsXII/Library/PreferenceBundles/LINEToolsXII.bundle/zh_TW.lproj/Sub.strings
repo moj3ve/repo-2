@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dark keyboard</key>
+	<string>黑暗的鍵盤</string>
+	<key>Event Stamp Enabled</key>
+	<string>事件戳已啟用</string>
+	<key>Hide Message</key>
+	<string>隱藏消息</string>
+	<key>Hide Story</key>
+	<string>隱藏故事</string>
+	<key>Passcode Bypass</key>
+	<string>密碼旁路</string>
+	<key>Present Enabled</key>
+	<string>現在已啟用</string>
+	<key>イベントスタンプを簡単に獲得出来ます。</key>
+	<string>您可以輕鬆獲得活動標記。</string>
+	<key>キーボードを暗くします。</key>
+	<string>使鍵盤變暗。</string>
+	<key>ストーリーが非表示になります。</key>
+	<string>這個故事是隱藏的。</string>
+	<key>パスコードロックを回避できます。</key>
+	<string>可以避免密碼鎖定。</string>
+	<key>プレゼント機能を有効化します。</key>
+	<string>激活當前功能。</string>
+	<key>受信したトークの表示を隠します。</key>
+	<string>隱藏收到的談話顯示。</string>
+</dict>
+</plist>

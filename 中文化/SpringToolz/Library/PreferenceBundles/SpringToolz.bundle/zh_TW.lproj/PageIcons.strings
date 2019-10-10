@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>"Animate Shape" is experimental feature. Enabling it on Page Icons may make your device lag a bit. Try it and send me a feedback if you like.</key>
+	<string>“Animate Shape”是實驗性特徵。 在頁面圖標上啟用它可能會使您的設備滯後一點。 如果您願意，可以嘗試並向我發送反饋。</string>
+	<key>"Satellite Dots" is experimental feature with which you may have issues (sometimes may their animation may fail). Try it and send me a feedback if you like.</key>
+	<string>“衛星點”是一個實驗性功能，您可能會遇到問題（有時候他們的動畫可能會失敗）。 如果您願意，可以嘗試並向我發送反饋。</string>
+	<key>Animate Shape</key>
+	<string>動畫形狀</string>
+	<key>Apply Shapes On Folders</key>
+	<string>在文件夾上應用形狀</string>
+	<key>Choose Shape</key>
+	<string>選擇形狀</string>
+	<key>Enable Satellite Dots</key>
+	<string>啟用衛星點</string>
+	<key>Enable Shadows</key>
+	<string>啟用陰影</string>
+	<key>Enable Shadows On Folders</key>
+	<string>啟用文件夾上的陰影</string>
+	<key>SHAPE ROTATION</key>
+	<string>形狀旋轉</string>
+</dict>
+</plist>

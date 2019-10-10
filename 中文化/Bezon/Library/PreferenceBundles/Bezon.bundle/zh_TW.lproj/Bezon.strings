@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bezon By: @DevelopApple </key>
+	<string>Bezon By: @DevelopApple 中文化小謝</string>
+	<key>Charge Sounds</key>
+	<string>充電聲音</string>
+	<key>Choose Sound</key>
+	<string>選擇聲音</string>
+	<key>DevelopApple</key>
+	<string>開發Apple</string>
+	<key>Donate</key>
+	<string>捐</string>
+	<key>Donate via PayPal</key>
+	<string>通過PayPal捐款</string>
+	<key>Enable Tweak</key>
+	<string>啟用調整</string>
+	<key>Enable/Disable Bezon</key>
+	<string>啟用/禁用Bezon</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>To Complete Changes Pressed Respring</key>
+	<string>完成變更按壓響應</string>
+	<key>Vibrate on Charge</key>
+	<string>充電時振動</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+{
+    "Add My Repo on Cydia \Ud83d\Udce6" = "\U5728Cydia\U4e0a\U6dfb\U52a0\U6211\U7684\U56de\U8cfc\Ud83d\Udce6";
+    "Cheers a Beer \Ud83c\Udf7b" = "\U4e7e\U676f\U5564\U9152\Ud83c\Udf7b";
+    "Contacts \Ud83c\Udf0e" = "\U806f\U7e6b\U4eba\Ud83c\Udf0e";
+    "Email Me \Ud83d\Udce9" = "\U7d66\U6211\U767c\U96fb\U5b50\U90f5\U4ef6\Ud83d\Udce9";
+    "Enable the Toggles to Choose the SpringBoard Slow or Fast Speed Effects Animations when opening/closing Applications and Switcher!\n\nYou can Switch from an Effect to a Different one without the Needing of Respringing!\n\nRespring required for the Switcher Effects.\n\nWith the Slow options Enabled You can use the inside Application while opening it!\n" = "\U6253\U958b/\U95dc\U9589\U61c9\U7528\U7a0b\U5e8f\U548c\U5207\U63db\U5668\U6642\Uff0c\U555f\U7528Toggles\U9078\U64c7SpringBoard\U6162\U901f\U6216\U5feb\U901f\U6548\U679c\U52d5\U756b\Uff01\n\n\U60a8\U53ef\U4ee5\U5728\U4e0d\U9700\U8981\U97ff\U61c9\U7684\U60c5\U6cc1\U4e0b\U5f9e\U6548\U679c\U5207\U63db\U5230\U53e6\U4e00\U500b\U6548\U679c\Uff01\n\nSwitcher\U6548\U679c\U6240\U9700\U7684\U97ff\U61c9\U3002\n\n\U555f\U7528\U6162\U901f\U9078\U9805\U60a8\U53ef\U4ee5\U5728\U6253\U958b\U6642\U4f7f\U7528\U5167\U90e8\U61c9\U7528\U7a0b\U5e8f\Uff01";
+    "Enable/Disable The Tweak options" = "\U555f\U7528/\U7981\U7528Tweak\U9078\U9805";
+    "Ermete \U00a9 2018 by Luca Geek (@CydiaGeek), enjoy it!\n\nTesting Stage Thanks to my Brother @lorenzo_noide and to my Tester @karimouni24.\n\nSettings Icon made by Freepik." = "Ermete\U00a92018 by Luca Geek\Uff08@CydiaGeek\Uff09\Uff0c\U76e1\U4eab\U5427\Uff01\n \U4e2d\U6587\U5316\Uff1a\U5c0f\U8b1d\Ud83d\Udc7b\n\n\U6e2c\U8a66\U968e\U6bb5\U611f\U8b1d\U6211\U7684\U5144\U5f1f@lorenzo_noide\U548c\U6211\U7684Tester @ karimouni24\U3002\n\n\U8a2d\U7f6e\U7531Freepik\U88fd\U4f5c\U7684\U5716\U6a19\U3002";
+    "Fast Animations!" = "\U5feb\U901f\U52d5\U756b\Uff01";
+    "Follow me on Twitter \U2764\Ufe0f" = "\U5728\U63a8\U7279\U4e0a\U95dc\U6ce8\U6211\U2764\Ufe0f";
+    "Little Slow Animations!" = "\U5c0f\U52d5\U756b\Uff01";
+    "My Tweaks on BigBoss Repo \Ud83d\Udee0" = "\U6211\U5c0dBigBoss Repo\U7684\U8abf\U6574\Ud83d\Udee0";
+    "Other Tweaks by Me:" = "\U6211\U7684\U5176\U4ed6\U8abf\U6574\Uff1a";
+    Respring = "\U91cd\U65b0\U555f\U52d5";
+    "Respring to apply in Case any Changes for refreshing  Prefs and Switcher Effects!" = "\U97ff\U61c9\U4ee5\U9069\U7528\U65bc\U66f4\U65b0Prefs\U548cSwitcher\U6548\U679c\U7684\U4efb\U4f55\U66f4\U6539\Uff01";
+    "Restart SpringBoard \U2714\Ufe0f" = "\U91cd\U555fSpringBoard\U2714\Ufe0f";
+    "Slow Animations!" = "\U6162\U52d5\U756b\Uff01";
+    "Very Fast Animations!" = "\U975e\U5e38\U5feb\U901f\U7684\U52d5\U756b\Uff01";
+    "Very Slow Animations!" = "\U975e\U5e38\U6162\U7684\U52d5\U756b\Uff01";
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kill Substitute in:</key>
+	<string>殺死替補：</string>
+	<key>NoSubstitute Blacklist</key>
+	<string>沒有替代黑名單（取消插件的App）中文化：小謝</string>
+</dict>
+</plist>

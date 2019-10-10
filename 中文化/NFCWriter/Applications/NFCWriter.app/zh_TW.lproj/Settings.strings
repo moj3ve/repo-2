@@ -1,0 +1,22 @@
+{
+    "ACTIONS FOR KNOWN TYPES" = "\U91dd\U5c0d\U5df2\U77e5\U985e\U578b\U7684\U884c\U52d5";
+    Advanced = "\U9ad8\U7d1a";
+    "Ask before launching action" = "\U5728\U767c\U8d77\U884c\U52d5\U4e4b\U524d\U8a62\U554f";
+    "Auto-Save NDEF Records" = "\U81ea\U52d5\U4fdd\U5b58NDEF\U8a18\U9304";
+    "Auto-Save Tags" = "\U81ea\U52d5\U4fdd\U5b58\U6a19\U7c64";
+    "Change Discovery Options" = "\U66f4\U6539\U767c\U73fe\U9078\U9805";
+    "Continuous scanning doesn't require to press Scan a New Tag to start scanning." = "\U9023\U7e8c\U6383\U63cf\U4e0d\U9700\U8981\U6309\U6383\U63cf\U65b0\U6a19\U7c64\U958b\U59cb\U6383\U63cf\U3002";
+    "Last Scan Log" = "\U4e0a\U6b21\U6383\U63cf\U65e5\U8a8c";
+    "Launch in Background" = "\U5728\U5f8c\U53f0\U555f\U52d5";
+    "Manage Saved NDEF Records" = "\U7ba1\U7406\U5df2\U4fdd\U5b58\U7684NDEF\U8a18\U9304";
+    "Manage Saved Tags" = "\U7ba1\U7406\U4fdd\U5b58\U7684\U6a19\U7c64";
+    "NDEF records found in tags can be automatically saved in your library upon scanning." = "\U6a19\U7c64\U4e2d\U7684NDEF\U8a18\U9304\U53ef\U4ee5\U5728\U6383\U63cf\U6642\U81ea\U52d5\U4fdd\U5b58\U5728\U60a8\U7684\U5eab\U4e2d\U3002";
+    "Perform actions for known types" = "\U57f7\U884c\U5df2\U77e5\U985e\U578b\U7684\U64cd\U4f5c";
+    "Read Tags in Background" = "\U95b1\U8b80\U80cc\U666f\U4e2d\U7684\U6a19\U7c64";
+    "Restart nfcd daemon" = "\U91cd\U65b0\U555f\U52d5nscd\U5b88\U8b77\U7a0b\U5e8f";
+    "Scan Continuously" = "\U9023\U7e8c\U6383\U63cf";
+    "Show Emulation Log" = "\U986f\U793a\U4eff\U771f\U65e5\U8a8c";
+    "Show Tag Banners" = "\U986f\U793a\U6a19\U7c64\U6a6b\U5e45";
+    "When a tag is scanned that contains a record with known types, like a Contact Card, a URL etc, the action will be handled." = "\U6383\U63cf\U5305\U542b\U5df2\U77e5\U985e\U578b\U8a18\U9304\U7684\U6a19\U8a18\Uff08\U5982\U806f\U7e6b\U4eba\U5361\U7247\Uff0cURL\U7b49\Uff09\U6642\Uff0c\U5c07\U8655\U7406\U8a72\U64cd\U4f5c\U3002";
+    "When you exit the app while in Read Tags tab, background tag reading will be enabled. If Launch In Background is also enabled, NFCWriter will auto-launch upon each respring and scan in background." = "\U5728\U201c\U8b80\U53d6\U6a19\U8a18\U201d\U9078\U9805\U5361\U4e2d\U9000\U51fa\U61c9\U7528\U7a0b\U5e8f\U6642\Uff0c\U5c07\U555f\U7528\U80cc\U666f\U6a19\U8a18\U8b80\U53d6\U3002 \U5982\U679c\U9084\U555f\U7528\U4e86\U201c\U5728\U5f8c\U53f0\U555f\U52d5\U201d\Uff0c\U5247NFCWriter\U5c07\U5728\U6bcf\U6b21\U547c\U53eb\U6642\U81ea\U52d5\U555f\U52d5\U4e26\U5728\U5f8c\U53f0\U6383\U63cf\U3002";
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Background Color</key>
+	<string>外半徑</string>
+	<key>Bolt Color</key>
+	<string>閃電顏色</string>
+	<key>Color</key>
+	<string>顏色</string>
+	<key>Foreground Color</key>
+	<string>內半徑</string>
+	<key>Speed</key>
+	<string>速度</string>
+</dict>
+</plist>

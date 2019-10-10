@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable background blur</key>
+	<string>禁用背景模糊</string>
+	<key>Disable coloured status for background </key>
+	<string>禁止背景彩色狀態欄</string>
+	<key>Disable folder background</key>
+	<string>關閉文件夾背景</string>
+	<key>Disable homescreen rotate</key>
+	<string>禁用主頁頁面旋轉</string>
+	<key>Disable spotlight + widgets page</key>
+	<string>禁用spotlight搜索+小組件頁面</string>
+	<key>Disable spotlight search</key>
+	<string>關閉 spotlight 搜索</string>
+	<key>Enable status bar</key>
+	<string>啓用狀態欄</string>
+	<key>Enable thin font</key>
+	<string>啓用細小字體</string>
+	<key>Hide blue update dot</key>
+	<string>隱藏藍色更新圓點</string>
+	<key>Icon Badges</key>
+	<string>圖標角標</string>
+	<key>In Folder</key>
+	<string>在文件夾中</string>
+	<key>Never badge icons</key>
+	<string>關閉圖標角標</string>
+	<key>No folder title</key>
+	<string>無文件夾標題</string>
+	<key>No icon labels</key>
+	<string>無圖標標籤</string>
+	<key>No page dots</key>
+	<string>無頁面位指示圓點</string>
+	<key>Page</key>
+	<string>頁面</string>
+	<key>Plus devices</key>
+	<string>設備增強</string>
+	<key>Remove Dock Background</key>
+	<string>移除 Dock 背景</string>
+	<key>Remove Status Bar</key>
+	<string>移除狀態欄</string>
+	<key>Remove StatusBar in HS and LS</key>
+	<string>在主屏和鎖屏移除狀態欄</string>
+	<key>Spotlight</key>
+	<string>Spotlight搜索</string>
+	<key>Springboard settings</key>
+	<string>系統桌面設置</string>
+	<key>Status bar</key>
+	<string>狀態欄</string>
+</dict>
+</plist>

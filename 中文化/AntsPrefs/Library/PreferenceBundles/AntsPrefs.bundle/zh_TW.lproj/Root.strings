@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ants</key>
+	<string>螞蟻</string>
+	<key>Credits for the original iOS 1.1 tweak goes to the original author(s).</key>
+	<string>原始 ios11 調整的積分歸原始作者使用。</string>
+	<key>Enabled</key>
+	<string>召喚螞蟻</string>
+	<key>Follow me on Twitter @SparkDev_</key>
+	<string>推特 @SparkDev_</string>
+	<key>Github</key>
+	<string>源代碼</string>
+	<key>Main</key>
+	<string>主要</string>
+	<key>Maximum Ants</key>
+	<string>螞蟻數量：</string>
+	<key>Original source code can be found here: https://code.google.com/archive/p/iphone-ants/</key>
+	<string>原始源代碼可以在這裡找到: https://code.google.com/archive/p/iphone-ants/</string>
+	<key>Respring</key>
+	<string>註銷手機</string>
+	<key>Spawn Rate</key>
+	<string>繁殖率</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>TPINPAL</key>
+	<string>推特：</string>
+	<key>Use Accelerometer</key>
+	<string>使用加速度計</string>
+</dict>
+</plist>

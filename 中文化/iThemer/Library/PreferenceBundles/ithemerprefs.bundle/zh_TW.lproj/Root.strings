@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bug Report</key>
+	<string>錯誤報告</string>
+	<key>Donate</key>
+	<string>捐</string>
+	<key>Enable Options</key>
+	<string>啟用選項</string>
+	<key>Hide Dock Background</key>
+	<string>隱藏碼頭背景</string>
+	<key>Hide Icon Labels</key>
+	<string>隱藏圖標標籤</string>
+	<key>Hide Page Dots</key>
+	<string>隱藏頁麵點</string>
+	<key>Select Theme:</key>
+	<string>選擇主題：</string>
+	<key>Special Thanks</key>
+	<string>特別謝謝</string>
+	<key>iThemer © DODGraphics 2019
+iThemer icon design by @bulldog5278
+		</key>
+	<string>iThemer©DODGraphics 2019
+iThemer圖標設計@ bulldog5278
+         中文化小謝</string>
+</dict>
+</plist>

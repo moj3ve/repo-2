@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>* - requires respring to take effect.</key>
+	<string>*  - 要求生效才能生效。</string>
+	<key>*Hide Dock</key>
+	<string>*隱藏碼頭</string>
+	<key>*Icon Labels Visible</key>
+	<string>*圖標標籤可見</string>
+	<key>*Page Control Visible</key>
+	<string>*頁面控制可見</string>
+	<key>*Square Icons</key>
+	<string>*方形圖標</string>
+</dict>
+</plist>

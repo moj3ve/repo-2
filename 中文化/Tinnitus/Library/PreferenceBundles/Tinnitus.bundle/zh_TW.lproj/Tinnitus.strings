@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add/Remove Ringtones</key>
+	<string>添加/刪除鈴聲</string>
+	<key>Enabled</key>
+	<string>啓用</string>
+	<key>Enabled Ringtone List</key>
+	<string>已啓用鈴聲列表</string>
+	<key>Override Contact Ringtones</key>
+	<string>覆蓋聯繫人鈴聲</string>
+	<key>Tinnitus by tateu</key>
+	<string>
+Tinnitus by tateu	
+CN简体中文汉化--蜜蜂源</string>
+</dict>
+</plist>

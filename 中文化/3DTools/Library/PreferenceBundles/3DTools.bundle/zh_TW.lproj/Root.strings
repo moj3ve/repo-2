@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add or remove options in the 3D touch menu</key>
+	<string>在3D觸摸菜單中添加或刪除選項</string>
+	<key>App Lock</key>
+	<string>App Lock</string>
+	<key>Banners</key>
+	<string>橫幅</string>
+	<key>Clear Badge</key>
+	<string>清除徽章</string>
+	<key>Clear Cache</key>
+	<string>清除緩存</string>
+	<key>Donate with PayPal</key>
+	<string>捐贈PayPal</string>
+	<key>Enable/Disable 3D Menu Options</key>
+	<string>啟用/禁用3D菜單選項</string>
+	<key>Extra Options</key>
+	<string>額外選項</string>
+	<key>Follow Our Team !!</key>
+	<string>關注我們的團隊!!</string>
+	<key>Follow me on Twitter</key>
+	<string>在推特上關注我</string>
+	<key>Hide Badges Systemwide</key>
+	<string>全系統隱藏徽章</string>
+	<key>Hide Share in 3D Menus</key>
+	<string>隱藏3D菜單中的共享</string>
+	<key>Hide Widgets in 3D Menus</key>
+	<string>在3D菜單中隱藏小部件</string>
+	<key>Like my work ? I like coffee</key>
+	<string>喜歡我的工作？ 我喜歡咖啡</string>
+	<key>Links</key>
+	<string>鏈接</string>
+	<key>Notifications</key>
+	<string>通知</string>
+	<key>Uninstall App</key>
+	<string>卸載App</string>
+	<key>Wanna chat with the team ?</key>
+	<string>想和團隊聊天嗎？</string>
+	<key>smokin1337 ©2019</key>
+	<string>smokin1337 ©2019 中文化 小謝</string>
+</dict>
+</plist>

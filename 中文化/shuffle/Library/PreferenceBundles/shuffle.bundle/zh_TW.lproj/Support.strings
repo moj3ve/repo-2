@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Become a Patreon</key>
+	<string>成為Patreon</string>
+	<key>Contact</key>
+	<string>聯繫</string>
+	<key>Copy Tweak List</key>
+	<string>複製調整列表</string>
+	<key>CreatureSurvive Tweak's</key>
+	<string>CreatureSurvive調整</string>
+	<key>Depiction</key>
+	<string>描寫</string>
+	<key>Donations</key>
+	<string>捐贈</string>
+	<key>Email Support</key>
+	<string>電郵支援</string>
+	<key>Info</key>
+	<string>信息</string>
+	<key>Make a Donation</key>
+	<string>做捐獻</string>
+	<key>Submit an Issue</key>
+	<string>提交問題</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>u/CreatureSurvive</key>
+	<string>在/ creaturesurvive</string>
+</dict>
+</plist>

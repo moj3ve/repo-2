@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%i Minutes</key>
+	<string>%i 分鐘</string>
+	<key>Allow Cellular Changes, allows Cellular to be enabled/disabled when WiFi is enabled/disabled</key>
+	<string>允許蜂窩更改，允許在啟用/禁用WiFi時啟用/禁用蜂窩</string>
+	<key>Allow cellular changes</key>
+	<string>允許細胞更改</string>
+	<key>Bluetooth</key>
+	<string>藍牙</string>
+	<key>Developer</key>
+	<string>開發人員</string>
+	<key>Enable</key>
+	<string>啟用</string>
+	<key>Enable Bluetooth in:</key>
+	<string>啟用藍牙：</string>
+	<key>Enable Bluetooth timer</key>
+	<string>啟用藍牙計時器</string>
+	<key>Enable Bluetooth when plugged</key>
+	<string>插入時啟用藍牙</string>
+	<key>Enable WiFi timer</key>
+	<string>啟用WiFi計時器</string>
+	<key>Main</key>
+	<string>主要</string>
+	<key>Reset All Settings to Defualt</key>
+	<string>將所有設置重置為默認值</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Thanks for downloading, enjoy :)</key>
+	<string>感謝下載，享受:) 😎中文化小謝😎</string>
+	<key>You can set the timer to 0 to disabled Bluetooth immediately after disconnecting a Bluetooth device</key>
+	<string>斷開藍牙設備後，您可以立即將計時器設置為0以禁用藍牙</string>
+</dict>
+</plist>

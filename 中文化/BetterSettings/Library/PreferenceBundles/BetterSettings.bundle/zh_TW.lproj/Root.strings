@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Backup, Restore &amp; Reset(Close Settings after use)</key>
+	<string>備份，恢復和重置（使用後關閉設置）</string>
+	<key>ChangeLog</key>
+	<string>更新日誌</string>
+	<key>Choose Background Image</key>
+	<string>選擇背景圖像</string>
+	<key>Clean Settings</key>
+	<string>清潔設置</string>
+	<key>Hide all icons in settings</key>
+	<string>隱藏設置中的所有圖標</string>
+	<key>MidnightChips © 2018</key>
+	<string>午夜籌碼©2018</string>
+	<key>Preset Options</key>
+	<string>預設選項</string>
+	<key>Set Background Color</key>
+	<string>設置背景顏色</string>
+	<key>Set Background Image</key>
+	<string>設置背景圖像</string>
+	<key>Set Border Radius</key>
+	<string>設置邊框半徑</string>
+	<key>Set Border Width. Used for making Bubbles</key>
+	<string>設置邊框寬度。 用於製作泡泡</string>
+	<key>Set Corner Radius. Used for making Bubbles</key>
+	<string>設置角半徑。 用於製作泡泡</string>
+	<key>Set Nav Bar Tint Color (Make sure to set your alpha)</key>
+	<string>設置導航欄色調顏色（確保設置您的alpha）</string>
+	<key>Set Statusbar Color</key>
+	<string>設置狀態欄顏色</string>
+	<key>Set Tab Selection Color</key>
+	<string>設置選項卡選擇顏色</string>
+	<key>Set Table Color</key>
+	<string>設置表格顏色</string>
+	<key>Set Tables Border Color</key>
+	<string>設置表格邊框顏色</string>
+	<key>Set Text Color</key>
+	<string>設置文本顏色</string>
+	<key>Special Thanks To:</key>
+	<string>特別感謝：</string>
+	<key>Support &amp; Creator</key>
+	<string>支持與創作者 中文化：小謝</string>
+	<key>Thanks to Lucifers_Circle for the help with this one</key>
+	<string>感謝Lucifers_Circle對這個問題的幫助</string>
+	<key>Thanks to Lucifers_Circle for this one</key>
+	<string>感謝Lucifers_Circle這個</string>
+	<key>Tint the NavigationBar</key>
+	<string>著色導航欄</string>
+</dict>
+</plist>

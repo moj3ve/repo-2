@@ -1,0 +1,10 @@
+Package: com.axcvd.5555repo
+Name: cbprefs 繁體中文化
+Depends: firmware (>=11.0)
+Architecture: iphoneos-arm
+Description: 安裝前請先安裝好 cbprefs
+Depiction: http://axcvd.github.io/5555repo/index.html
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 小謝 <vv741852v@gmail.com>
+Section: Localization
+Version: 1.0

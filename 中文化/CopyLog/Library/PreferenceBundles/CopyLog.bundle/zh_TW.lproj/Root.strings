@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apply &amp; Respring</key>
+	<string>註銷設備生效</string>
+	<key>Are you sure you want to clear all your snippet history? Favorite Snippets won't be deleted.</key>
+	<string>您確定要清除所有片段嗎？ 收藏的片段不會被刪除。</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Clear All History</key>
+	<string>清除所有歷史</string>
+	<key>Copy Sounds</key>
+	<string>複製聲音</string>
+	<key>Dev's socials</key>
+	<string>Dev的社交</string>
+	<key>Enable</key>
+	<string>啓用功能</string>
+	<key>Follow @tomt000 on Twitter! </key>
+	<string>推特 @tomt000</string>
+	<key>Keyboard Swipe Up</key>
+	<string>鍵盤向上滑動</string>
+	<key>Max Snippets:</key>
+	<string>最大片段</string>
+	<key>Open CopyLog</key>
+	<string>打開 CopyLog</string>
+	<key>Selection Menu</key>
+	<string>選擇菜單</string>
+	<key>Snippets</key>
+	<string>片段      Max Snippets: 最大片段</string>
+	<key>Tweak</key>
+	<string>插件選項</string>
+	<key>View Snippets</key>
+	<string>查看片段</string>
+	<key>⌘⇧V External Keyboard</key>
+	<string>⌘⇧V外部鍵盤</string>
+</dict>
+</plist>

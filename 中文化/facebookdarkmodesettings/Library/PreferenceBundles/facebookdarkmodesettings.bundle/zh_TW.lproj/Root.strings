@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced options</key>
+	<string>高級選項</string>
+	<key>Color options</key>
+	<string>顏色選項</string>
+	<key>Custom color options</key>
+	<string>自定義顏色選項</string>
+	<key>Enable dark Keyboard</key>
+	<string>啟用黑暗鍵盤</string>
+	<key>Enable remote logging</key>
+	<string>啟用遠程日誌記錄</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>General</key>
+	<string>一般</string>
+	<key>Send email</key>
+	<string>發電子郵件</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Theme</key>
+	<string>主題</string>
+	<key>Toggle with NoctisXI</key>
+	<string>與NoctisXI切換</string>
+	<key>Use custom colors</key>
+	<string>使用自定義顏色</string>
+	<key>foxfortmobile</key>
+	<string>New string</string>
+	<key>v2.1.6 © 2018 FoxfortMobile</key>
+	<string>v2.1.6©2018 FoxfortMobile
+中文化：小謝</string>
+	<key>啟用遠程日誌記錄</key>
+	<string>啟用遠程日誌記錄</string>
+</dict>
+</plist>

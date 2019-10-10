@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Camera</key>
+	<string>相機</string>
+	<key>Clock</key>
+	<string>時鐘</string>
+	<key>Disable homescreen icon animation</key>
+	<string>禁止主屏圖標動畫</string>
+	<key>Disable shutter sound</key>
+	<string>禁用拍攝聲音</string>
+	<key>Disable thumbnail preview</key>
+	<string>禁用縮略圖預覽</string>
+	<key>Hide Contacts tab</key>
+	<string>隱藏通訊錄</string>
+	<key>Hide Favorites tab</key>
+	<string>隱藏個人收藏</string>
+	<key>Hide Memories tab</key>
+	<string>隱藏回憶項目</string>
+	<key>Hide People</key>
+	<string>隱藏人物相簿</string>
+	<key>Hide Places</key>
+	<string>隱藏地點相簿</string>
+	<key>Hide Recents tab</key>
+	<string>隱藏最近通話</string>
+	<key>Hide Trending</key>
+	<string>隱藏熱門搜索</string>
+	<key>Hide VoiceMail tab</key>
+	<string>隱藏語音留言</string>
+	<key>Hide albums tab</key>
+	<string>隱藏相冊項目</string>
+	<key>Hide icons</key>
+	<string>隱藏圖標</string>
+	<key>Hide separators</key>
+	<string>隱藏分隔線條</string>
+	<key>Increase zoom capability</key>
+	<string>增強縮放功能</string>
+	<key>No delete confimation</key>
+	<string>刪除無需確認</string>
+	<key>No update history</key>
+	<string>不顯示更新曆史</string>
+	<key>One hand mode</key>
+	<string>單手模式</string>
+	<key>Phone</key>
+	<string>電話</string>
+	<key>Photos</key>
+	<string>照片</string>
+	<key>Remove top/bottom black bars</key>
+	<string>移除 頂部/底部黑欄</string>
+	<key>Settings</key>
+	<string>設置</string>
+	<key>System Apps settings</key>
+	<string>系統應用</string>
+</dict>
+</plist>

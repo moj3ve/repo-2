@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bypass Passcode</key>
+	<string>繞過密碼</string>
+	<key>Bypass Theme Check</key>
+	<string>繞過主題檢查</string>
+	<key>Dark Keyboard</key>
+	<string>黑色鍵盤</string>
+	<key>Friend Request</key>
+	<string>好友請求功能</string>
+	<key>Friend Request (Japan only)</key>
+	<string>朋友請求（僅限日本）</string>
+	<key>Main Settings</key>
+	<string>主要設定</string>
+	<key>No Read</key>
+	<string>「不顯示已讀」</string>
+	<key>Send Check</key>
+	<string>發送支票</string>
+	<key>Sticker Gift</key>
+	<string>贈送貼圖</string>
+	<key>Sticker No Event</key>
+	<string>貼紙沒有事件</string>
+	<key>Theme Free DL</key>
+	<string>主題免費下載</string>
+	<key>オンにすると既読がつかなくなります。</key>
+	<string>如果打開，則不會顯示已讀</string>
+	<key>キーボードを暗くします。</key>
+	<string>使鍵盤變暗</string>
+	<key>スタンププレゼント機能を有効化します。</key>
+	<string>啟動贈送禮物功能</string>
+	<key>パスコードを無効化します。</key>
+	<string>禁用密碼</string>
+	<key>メッセージ送信時に確認アラートを出します。</key>
+	<string>我會在發送郵件時發出確認提醒。</string>
+	<key>友達申請機能を有効化します。</key>
+	<string>啟用好友請求功能</string>
+	<key>友達追加でDLできるスタンプを友達追加せずにDLできるようにします。</key>
+	<string>允許下載可以通過添加朋友而不添加朋友添加的戳記。</string>
+	<key>着せ替えのDLを無料化します。</key>
+	<string>主題免費</string>
+	<key>着せ替えチェックを回避します。</key>
+	<string>避免主題檢查</string>
+</dict>
+</plist>

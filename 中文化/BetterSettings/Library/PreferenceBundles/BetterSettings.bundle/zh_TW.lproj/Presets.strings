@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dark Bubble Mode</key>
+	<string>黑暗泡泡模式</string>
+	<key>Dark Clean Mode</key>
+	<string>暗清潔模式</string>
+	<key>Light Bubble Mode</key>
+	<string>光泡模式</string>
+	<key>MidnightChips © 2018</key>
+	<string>午夜籌碼©2018</string>
+	<key>Preset Image Mode</key>
+	<string>預設圖像模式</string>
+</dict>
+</plist>

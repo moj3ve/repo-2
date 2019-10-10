@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Copy Tweak List</key>
+	<string>複製調整列表</string>
+	<key>Disable Ad (Currently waiting for CSPref Update)</key>
+	<string>停用廣告（目前正在等待CSPref更新）</string>
+	<key>Email Support</key>
+	<string>電郵支援</string>
+	<key>Help me Reach the Goal of Buying an Apple Watch</key>
+	<string>幫助我達到購買Apple Watch的目標</string>
+	<key>MidnightChips © 2018</key>
+	<string>午夜籌碼©2018</string>
+	<key>Reach Out</key>
+	<string>伸手</string>
+	<key>Report A Bug</key>
+	<string>報告錯誤</string>
+	<key>Support</key>
+	<string>支持</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Group Name</key>
+	<string>群組名稱</string>
+	<key>Group ID</key>
+	<string>群組 ID</string>
+	<key>Member Count</key>
+	<string>成員數量</string>
+	<key>Group Participated Time</key>
+	<string>群組參加時間</string>
+	<key>Group Inviter</key>
+	<string>群組邀請</string>
+	<key>Invitation Link</key>
+	<string>邀請連結</string>
+	<key>Group Image URL</key>
+	<string>群組圖像網址</string>
+	<key>Custom Format</key>
+	<string>自定義格式</string>
+</dict>
+</plist>

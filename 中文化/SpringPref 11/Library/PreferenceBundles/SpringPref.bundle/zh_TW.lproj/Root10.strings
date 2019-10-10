@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Align center</key>
+	<string>居中對齊</string>
+	<key>Align right</key>
+	<string>右對齊</string>
+	<key>Disable time/date</key>
+	<string>禁用時間/日期</string>
+	<key>Hide edit button</key>
+	<string>隱藏編輯按鈕</string>
+	<key>No "new widget available" text</key>
+	<string>沒有”新的小組件”文字顯示</string>
+	<key>No "weather by..." text</key>
+	<string>沒有”天氣...”文字顯示</string>
+	<key>Time/Date(PICK ONE ONLY!!)</key>
+	<string>時間/日期(只能選一個)</string>
+	<key>Widgets settings</key>
+	<string>小組件設置</string>
+</dict>
+</plist>

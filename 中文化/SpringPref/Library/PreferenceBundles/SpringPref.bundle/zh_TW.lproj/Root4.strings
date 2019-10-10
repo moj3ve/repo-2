@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Switcher</key>
+	<string>應用程序切換</string>
+	<key>App Switcher settings</key>
+	<string>應用切換設置</string>
+	<key>Disable app icon and name</key>
+	<string>禁用應用圖標和名稱</string>
+	<key>Disable background blur</key>
+	<string>禁用背景模糊</string>
+	<key>Enable round card corners</key>
+	<string>啓用圓角卡片</string>
+	<key>Round corner intensity</key>
+	<string>圓角弧度</string>
+</dict>
+</plist>

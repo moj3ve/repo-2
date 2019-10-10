@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>(slide left)Faster --- Slower(slide right)</key>
+	<string>(左滑) 加快 — 減慢 (右滑)</string>
+	<key>(slide left)Higher --- Lower(slide right)</key>
+	<string>(左滑) 升高 --- 降低 (右滑)</string>
+	<key>Animation Speed</key>
+	<string>動畫速度</string>
+	<key>Black KeyBoard</key>
+	<string>黑色鍵盤</string>
+	<key>Bounce Effect</key>
+	<string>彈跳效果</string>
+	<key>Bread Crumbs</key>
+	<string>快捷返回</string>
+	<key>Damping Intensity</key>
+	<string>衰減強度</string>
+	<key>Disable Blurs</key>
+	<string>禁止模糊</string>
+	<key>Disable BreadCrumbs</key>
+	<string>禁用快捷返回</string>
+	<key>Disable power connected tone</key>
+	<string>禁用充電連接音效</string>
+	<key>Disable screenshot sound</key>
+	<string>禁用屏幕截圖聲音</string>
+	<key>Enable Black and opaque</key>
+	<string>啓用黑色和不透明</string>
+	<key>Enable Black with blur</key>
+	<string>啓用黑色模糊</string>
+	<key>Enable Bounce effect</key>
+	<string>啓用彈跳效果</string>
+	<key>Enable Fast Animation</key>
+	<string>啓用快速動畫</string>
+	<key>Enable Fast HUD dismiss</key>
+	<string>開啓 HUD 快速消隱</string>
+	<key>Enable Round Corners</key>
+	<string>啓用圓角圖標</string>
+	<key>Enable custom height</key>
+	<string>啓用自定義高度</string>
+	<key>Enable key borders</key>
+	<string>開啓按鍵邊框</string>
+	<key>Everywhere</key>
+	<string>任何地方</string>
+	<key>Mass Intensity</key>
+	<string>整個強度</string>
+	<key>Minimal BreadCrumbs</key>
+	<string>最小的快捷返回</string>
+	<key>No screenshot flash and window</key>
+	<string>沒有截圖閃爍和左下角窗口</string>
+	<key>No search bar blur</key>
+	<string>搜索欄不模糊</string>
+	<key>Power</key>
+	<string>電源</string>
+	<key>Reachability</key>
+	<string>便捷訪問</string>
+	<key>Remove dictation key</key>
+	<string>移除語音按鍵</string>
+	<key>Return on touch</key>
+	<string>觸摸時返回</string>
+	<key>Round Corners</key>
+	<string>圓角圖標</string>
+	<key>Round corner intensity</key>
+	<string>圓角弧度</string>
+	<key>Screenshot</key>
+	<string>屏幕截圖</string>
+	<key>Spotlight</key>
+	<string>Spotlight搜索</string>
+	<key>Springboard</key>
+	<string>系統桌面</string>
+	<key>Stiffness Intensity</key>
+	<string>力度強度</string>
+	<key>System-wide settings</key>
+	<string>系統設置</string>
+	<key>Top left HUD view</key>
+	<string>HUD 視圖移至左上角</string>
+	<key>Velocity Intensity</key>
+	<string>速度強度</string>
+</dict>
+</plist>

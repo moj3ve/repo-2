@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Control Center</key>
+	<string>控制中心</string>
+	<key>Control Center settings</key>
+	<string>控制中心設置</string>
+	<key>Pull on first swipe</key>
+	<string>首次滑動拉出</string>
+	<key>Sleek look</key>
+	<string>時尚的外觀</string>
+</dict>
+</plist>

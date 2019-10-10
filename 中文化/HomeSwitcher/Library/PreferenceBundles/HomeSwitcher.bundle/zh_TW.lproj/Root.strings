@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATOR OPTIONS</key>
+	<string>Activator激活器選項</string>
+	<key>AppCards Size:</key>
+	<string>插件尺寸:</string>
+	<key>Can Overlap StatusBar</key>
+	<string>可重疊狀態欄</string>
+	<key>Choose Apps To Blur</key>
+	<string>選擇模糊的應用程序</string>
+	<key>Credit to HomeSwitchers Icon Designer @Degrager_Dev</key>
+	<string>
+Credit to HomeSwitchers Icon Designer @Degrager_Dev	
+CN简体中文汉化 -- 蜜蜂源</string>
+	<key>Enable Activator Gestures</key>
+	<string>啓用Activator激活器手勢</string>
+	<key>Enable Free Flow Scrolling </key>
+	<string>啓用自由流滾動</string>
+	<key>Enable Moving Of Switcher</key>
+	<string>允許切換開關移動</string>
+	<key>Enable Vertical Mode</key>
+	<string>啓用垂直模式</string>
+	<key>Hidden Views Thickness</key>
+	<string>隱藏視圖厚度</string>
+	<key>Hide HomeSwitcher</key>
+	<string>隱藏主頁交換</string>
+	<key>Instructions - Please Read</key>
+	<string>說明-請閱讀</string>
+	<key>OPTIONS</key>
+	<string>選項</string>
+	<key>Requires Activator To Be Installed</key>
+	<string>需要安裝Activator激活器</string>
+	<key>See Your Changes Happen!!!</key>
+	<string>看到你的改變發生了！！！！</string>
+	<key>Selected HomePage:</key>
+	<string>所選主頁:</string>
+	<key>Shadow Radius:</key>
+	<string>陰影半徑:</string>
+	<key>Show HomeSwitcher</key>
+	<string>顯示主頁交換</string>
+	<key>Show On Selected Page</key>
+	<string>在所選頁上顯示</string>
+	<key>Show/Hide HomeSwitcher</key>
+	<string>顯示/隱藏主交換</string>
+	<key>Sinicization</key>
+	<string>小謝中文化</string>
+	<key>developer</key>
+	<string>開發者</string>
+</dict>
+</plist>

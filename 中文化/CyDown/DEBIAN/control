@@ -1,0 +1,10 @@
+Package: com.yourepo.cbprefs.libertypref1
+Name: CyDownSettings繁體中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: CyDownSettings 繁體中文化
+Author: 小謝 <vv741852v@gmail.com>
+Section: X Window
+Depends: firmware (>=11.0)
+Maintainer: 小謝 <vv741852v@gmail.com>
+

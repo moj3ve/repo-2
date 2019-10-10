@@ -1,0 +1,12 @@
+{
+    Developers = "\U958b\U767c\U5546";
+    "Enable Tweak" = "\U555f\U7528\U8abf\U6574";
+    Extra = "\U984d\U5916";
+    "Kane Buckthorpe" = "\U51f1\U6069\U5df4\U514b\U7d22\U666e";
+    Main = "\U4e3b\U8981";
+    Options = "\U9078\U9805";
+    "Remember last mode" = "\U8a18\U4f4f\U4e0a\U6b21\U6a21\U5f0f";
+    "Reset settings to defaults" = "\U5c07\U8a2d\U7f6e\U91cd\U7f6e\U70ba\U9ed8\U8a8d\U503c";
+    Respring = "\U91cd\U65b0\U555f\U52d5";
+    "Toggle only when expanded" = "\U50c5\U5728\U5c55\U958b\U6642\U5207\U63db";
+}

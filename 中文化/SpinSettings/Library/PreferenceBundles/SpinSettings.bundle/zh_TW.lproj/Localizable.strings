@@ -1,0 +1,7 @@
+{
+    FOLLOW = "\U8ddf\U96a8";
+    NO = "\U6c92\U6709";
+    OPEN = "\U4f60\U60f3\U6253\U958b\Uff05@\U55ce\Uff1f";
+    RESPRING = "\U4f60\U60f3\U73fe\U5728\U597d\U55ce\Uff1f";
+    YES = "\U662f";
+}

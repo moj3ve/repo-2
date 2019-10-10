@@ -1,0 +1,14 @@
+{
+    "Animate on close" = "\U52d5\U756b\U95dc\U9589";
+    "Animate on launch" = "\U5728\U767c\U4f48\U6642\U52d5\U756b";
+    "Animate on rotate" = "\U65cb\U8f49\U52d5\U756b";
+    "Animate on shake" = "\U6416\U52d5\U52d5\U756b";
+    "Animate on swipe" = "\U6ed1\U52d5\U52d5\U756b";
+    "Animate on touch" = "\U89f8\U6478\U52d5\U756b";
+    Animations = "\U52d5\U756b";
+    Donate = "\U6350";
+    Enabled = "\U555f\U7528";
+    "If you like my work, please consider a donation. Thanks!" = "\U5982\U679c\U60a8\U559c\U6b61\U6211\U7684\U4f5c\U54c1\Uff0c\U8acb\U8003\U616e\U6350\U8d08\U3002 \U8b1d\U8b1d\Uff01\n               \U4e2d\U6587\U5316\Uff1a\U5c0f\U8b1d";
+    Sound = "\U8072\U97f3";
+    "The app launch will be delayed until the animation finishes when animate on launch is enabled. Animate on rotate only works on iPad and iPhone plus models. Icons will only animate when the springboard is visible." = "\U61c9\U7528\U7a0b\U5e8f\U555f\U52d5\U5c07\U5ef6\U9072\Uff0c\U76f4\U5230\U52d5\U756b\U5b8c\U6210\U6642\U555f\U7528\U52d5\U756b\U555f\U52d5\U3002 \U65cb\U8f49\U52d5\U756b\U50c5\U9069\U7528\U65bciPad\U548ciPhone\U4ee5\U53ca\U578b\U865f\U3002 \U53ea\U6709\U8df3\U677f\U53ef\U898b\U6642\Uff0c\U5716\U6a19\U624d\U6703\U751f\U6210\U52d5\U756b\U3002";
+}

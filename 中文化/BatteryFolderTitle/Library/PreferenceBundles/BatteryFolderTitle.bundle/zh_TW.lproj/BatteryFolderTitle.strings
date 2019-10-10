@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add My Repo on Cydia 📦</key>
+	<string>在Cydia上添加我的倉庫</string>
+	<key>BatteryFolderTitle © 2019 by Luca Geek (@CydiaGeek), enjoy it!
+
+Settings Icon made by Freepik.</key>
+	<string>BatteryFolderTitle©2019 by Luca Geek（@CydiaGeek），盡情享受吧！
+
+Freepik製作的設置圖標。中文化 小謝</string>
+	<key>Black Folders Titles</key>
+	<string>黑色文件夾標題</string>
+	<key>Cheers a Beer 🍻</key>
+	<string>喝啤酒Beer</string>
+	<key>Contacts 🌐</key>
+	<string>聯繫人🌐</string>
+	<key>Custom Slider Sizes Values.
+
+Max Right Slider Values Give Max Size to the Folders Titles.
+Max Left Slider Values Give Min Size to the Folders Titles.</key>
+	<string>自定義滑塊大小值。
+
+“最大右滑塊”值將“最大大小”賦予文件夾標題。
+“最大左滑塊”值將“最小大小”賦予文件夾標題。</string>
+	<key>Email Me ✉️</key>
+	<string>給我發電子郵件✉️</string>
+	<key>Enable BatteryFolderTitle</key>
+	<string>啟用電池文件夾標題</string>
+	<key>Enable Custom Titles Sizes</key>
+	<string>啟用自定義標題大小</string>
+	<key>Enable the Toggle to Choose the Custom Sizes Values of the Titles inside Folders.</key>
+	<string>啟用切換來選擇文件夾中文件的自定義大小值。</string>
+	<key>Enable/Disable the Tweak</key>
+	<string>啟用/禁用調整</string>
+	<key>Extra</key>
+	<string>額外</string>
+	<key>Follow me on Twitter 💕</key>
+	<string>在Twitter上關注我</string>
+	<key>Hide Folders Titles</key>
+	<string>隱藏文件夾標題</string>
+	<key>Hide Folders Titles Edit BG</key>
+	<string>隱藏文件夾標題編輯BG</string>
+	<key>More Options</key>
+	<string>更多選擇</string>
+	<key>My Tweaks on BigBoss Repo 🛠</key>
+	<string>我在BigBoss Repo上的調整🛠</string>
+	<key>Other Tweaks by Me:</key>
+	<string>我的其他調整：</string>
+	<key>Respring Button Provided for Extras Purposes! No Respring Needed for Enabling and Disabling the Tweak and its options!</key>
+	<string>提供彈跳按鈕，用於其他目的！ 啟用和禁用該調整及其選項無需重新啟動！</string>
+	<key>Show the Battery Level instead of the Folders Titles!</key>
+	<string>顯示電池電量而不是文件夾標題！</string>
+	<key>Slide Custom Option</key>
+	<string>滑動自定義選項</string>
+	<key>You can Select Each options to Enable for the Folders Titles!
+
+Each options can be Activated Individually. Combine Them as you Prefer!</key>
+	<string>您可以選擇每個選項來啟用文件夾標題！
+
+每個選項都可以單獨激活。 隨心所欲地組合它們！</string>
+</dict>
+</plist>

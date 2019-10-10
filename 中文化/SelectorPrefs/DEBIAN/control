@@ -1,0 +1,9 @@
+Package: com.mrmadtw.SelectorPrefs
+Name: SelectorPrefs 繁體中文化
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 安裝前請先安裝好 SelectorPrefs
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 小謝 <vv741852v@gmail.com>
+Section: 中文化
+Depends: firmware (>=11.0)

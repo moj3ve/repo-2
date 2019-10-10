@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Block Unknown Callers</key>
+	<string>阻止未知來電者</string>
+	<key>Block Unknown Numbers</key>
+	<string>阻止未知號碼</string>
+	<key>Decline Silently</key>
+	<string>隱藏通知</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Enabling this feature will block calls from number which are not saved in your contacts list!</key>
+	<string>啟用此功能將阻止來自未存儲在聯繫人列表中的號碼的呼叫。</string>
+	<key>Enabling this option blocks calls which have no number and show up as Unknown in the Caller ID!</key>
+	<string>啟用此功能會阻止未編號的呼叫，並在呼叫者ID中顯示為“未知”。</string>
+	<key>Enabling this option supresses the missed call notification. You will still see a disconnected call entry for tracking purposes in the CallHistory!</key>
+	<string>啟用此功能將隱藏未接來電通知。 您仍然可以在通話記錄中看到未接來電。</string>
+	<key>Silence Unknown Callers (iOS13)</key>
+	<string>阻止未知來電者</string>
+	<key>Silent Disconnect Enabled</key>
+	<string>隱藏通知</string>
+	<key>Specify Numbers to block</key>
+	<string>阻止特定號碼</string>
+	<key>Specify the number exactly how it appears when you get the phone call from that number without the '+' in the front.   E.g 12223334444 for USA.
+You can specify the full number to block or just the starting digits of the numbers i.e. Number that begin with 800. -&gt; USE THIS OPTION WITH CAUTION!</key>
+	<string>當您從此號碼接收電話而沒有“”符號時，請指出完全相同的號碼。 例如，美國的12223334444。
+您可以指定要阻止的完整數字或僅指定數字的初始數字，即 一個以800開頭的數字。</string>
+</dict>
+</plist>

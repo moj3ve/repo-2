@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@M_Dausch</key>
+	<string>@M_Dausch 中文化：小謝</string>
+	<key>Banners</key>
+	<string>橫幅</string>
+	<key>Enable</key>
+	<string>啟用</string>
+	<key>Lockscreen</key>
+	<string>鎖屏</string>
+	<key>Now Playing And CC</key>
+	<string>現在正在播放和CC</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Some changes may require a respring</key>
+	<string>某些更改可能需要重新調整</string>
+	<key>Submit Feedback</key>
+	<string>提交反饋</string>
+	<key>Widgets</key>
+	<string>小工具</string>
+	<key>© 2018 Maxwell Dausch</key>
+	<string>© 2018 Maxwell Dausch🦊</string>
+</dict>
+</plist>

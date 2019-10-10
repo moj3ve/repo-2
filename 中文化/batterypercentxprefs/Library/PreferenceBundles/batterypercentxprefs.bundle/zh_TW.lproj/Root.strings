@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animation Duration</key>
+	<string>動畫持續時間</string>
+	<key>Battery Bar</key>
+	<string>電池條</string>
+	<key>Battery Bar Enabled</key>
+	<string>電池條已啟用</string>
+	<key>Battery Percent</key>
+	<string>電池百分比</string>
+	<key>Battery Percent Enabled</key>
+	<string>電池百分比已啟用</string>
+	<key>Charge Animation Style</key>
+	<string>充電動畫風格</string>
+	<key>Charge and LPM colours on all</key>
+	<string>所有的充電和LPM顏色</string>
+	<key>Charging and LPM colours</key>
+	<string>充電和LPM顏色</string>
+	<key>Colour All Elements</key>
+	<string>顏色所有元素</string>
+	<key>Colour With Percentage</key>
+	<string>顏色與百分比</string>
+	<key>Custom Colour</key>
+	<string>自定義顏色</string>
+	<key>Custom Colour Enabled</key>
+	<string>自定義顏色已啟用</string>
+	<key>Double tap to toggle LPM</key>
+	<string>雙擊以切換LPM</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Follow me on Twitter @SparkDev_</key>
+	<string>在Twitter上關注我@SparkDev_</string>
+	<key>Meter Style</key>
+	<string>儀表風格</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Settings</key>
+	<string>設置</string>
+	<key>Show Percentage Symbol</key>
+	<string>顯示百分比符號</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Tap and hold to respring</key>
+	<string>點按並按住即可重新啟動</string>
+	<key>Use Charge and LPM colours</key>
+	<string>使用Charge和LPM顏色</string>
+	<key>Use Custom Colour</key>
+	<string>使用自定義顏色</string>
+	<key>Use Full Screen Width</key>
+	<string>使用全屏寬度</string>
+</dict>
+</plist>

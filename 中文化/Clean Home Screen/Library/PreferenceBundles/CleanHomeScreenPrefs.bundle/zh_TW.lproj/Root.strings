@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Names</key>
+	<string>應用名稱</string>
+	<key>Clutter to remove</key>
+	<string>雜亂刪除</string>
+	<key>Dock Background</key>
+	<string>碼頭背景</string>
+	<key>Donate (very much appreciated!)</key>
+	<string>捐贈（非常感謝！）</string>
+	<key>Home Indicator</key>
+	<string>家庭指標</string>
+	<key>Home Screen Page Dots</key>
+	<string>主屏幕頁麵點</string>
+	<key>Home Screen Today View</key>
+	<string>主屏幕今日視圖</string>
+	<key>Lock Screen Date</key>
+	<string>鎖屏日期</string>
+	<key>Lock Screen Page Dots</key>
+	<string>鎖屏頁麵點</string>
+	<key>Lock Screen Today View</key>
+	<string>鎖屏今日視圖</string>
+	<key>New item</key>
+	<string>新物品</string>
+	<key>Notched Devices Only</key>
+	<string>僅缺口設備</string>
+	<key>Notification Badges</key>
+	<string>通知徽章</string>
+	<key>Notification Center Hints</key>
+	<string>通知中心提示</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Respring to Apply Changes</key>
+	<string>響應應用更改</string>
+	<key>Status Bar</key>
+	<string>狀態欄</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Twitter @JustinAlexP</key>
+	<string>Twitter @JustinAlexP 中文化小謝</string>
+	<key>Unlock Text</key>
+	<string>解鎖文字</string>
+</dict>
+</plist>

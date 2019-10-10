@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bluetooth</key>
+	<string>藍牙</string>
+	<key>Border Width</key>
+	<string>邊框寬度</string>
+	<key>Choose Custom Color</key>
+	<string>選擇顏色</string>
+	<key>Choose Glow Color</key>
+	<string>發光顏色</string>
+	<key>Corner Radius</key>
+	<string>圓角半徑</string>
+	<key>Enable</key>
+	<string>開啓</string>
+	<key>Enable Custom Colors</key>
+	<string>自定義顏色</string>
+	<key>Enable Unified Settings</key>
+	<string>統一設置</string>
+	<key>Glow Opacity</key>
+	<string>發光透明度</string>
+	<key>Glow Radius</key>
+	<string>發光半徑</string>
+	<key>If this is NOT enabled stock colors will be used.</key>
+	<string>如果未啓用，則將使用默認顏色。</string>
+	<key>Off Settings</key>
+	<string>設置(關閉)</string>
+	<key>On Settings</key>
+	<string>設置 (開啓)</string>
+	<key>When this is enabled it applies the settings below to all buttons. No need to customize each button.</key>
+	<string>啓用此選項後，它會將以下設置應用於所有按鈕。無需自定義每個按鈕。</string>
+</dict>
+</plist>

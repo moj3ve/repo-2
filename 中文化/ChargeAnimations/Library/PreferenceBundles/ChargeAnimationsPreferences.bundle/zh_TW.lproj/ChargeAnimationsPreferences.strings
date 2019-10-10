@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always On / Loop</key>
+	<string>永不褪色</string>
+	<key>Animation</key>
+	<string>動畫</string>
+	<key>Background Color</key>
+	<string>背景顏色</string>
+	<key>Customization</key>
+	<string>動畫設置</string>
+	<key>Donate</key>
+	<string>PayPal</string>
+	<key>Enable on Lockscreen</key>
+	<string>在鎖定屏幕上</string>
+	<key>Enable on Springboard</key>
+	<string>在主屏幕上</string>
+	<key>Extra Stuff</key>
+	<string>反饋</string>
+	<key>Follow @LoisMarcin (Miui animator)</key>
+	<string>@LoisMarcin（設計師MIUI）</string>
+	<key>Follow @c1d3rDev (Developer)</key>
+	<string>開發人員@ c1d3rDev</string>
+	<key>Follow @lazynagy (Icon Designer)</key>
+	<string>設計師@lazynagy</string>
+	<key>Hide Stock Battery</key>
+	<string>隱藏標準動畫</string>
+	<key>Hide Stock Battery Animation</key>
+	<string>隱藏標準動畫</string>
+	<key>Labels</key>
+	<string>圖標</string>
+	<key>Lock to Animation</key>
+	<string>鎖定動畫</string>
+	<key>Lockscreen</key>
+	<string>鎖屏</string>
+	<key>Percent Label</key>
+	<string>百分比圖標</string>
+	<key>Set alpha to 0 to allow touches to pass through</key>
+	<string>將值設置為0以允許點擊屏幕。</string>
+	<key>Sleep After Animation</key>
+	<string>動畫後睡覺</string>
+	<key>Springboard</key>
+	<string>主屏幕</string>
+	<key>Submit Animations</key>
+	<string>建議一個動畫 中文化 小謝</string>
+	<key>Time Label</key>
+	<string>時間圖標</string>
+</dict>
+</plist>

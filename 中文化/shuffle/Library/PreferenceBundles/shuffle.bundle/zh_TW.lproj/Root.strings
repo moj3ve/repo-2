@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced Section Titles</key>
+	<string>高級部分標題</string>
+	<key>Advanced Title</key>
+	<string>高級標題</string>
+	<key>AppStore Title</key>
+	<string>AppStore標題</string>
+	<key>Backup &amp; Restore</key>
+	<string>備份和還原</string>
+	<key>Bundles Title</key>
+	<string>捆綁標題</string>
+	<key>ChangeLog</key>
+	<string>更新日誌</string>
+	<key>CreatureCoding © 2018</key>
+	<string>生物編碼©2018</string>
+	<key>Dylibs Title</key>
+	<string>Dylibs標題</string>
+	<key>Enable 3DTouch</key>
+	<string>啟用3DTouch</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>General</key>
+	<string>一般</string>
+	<key>Move To Top</key>
+	<string>移至頂部</string>
+	<key>Move the shuffle section to the top</key>
+	<string>將隨機播放部分移至頂部</string>
+	<key>Packages Title</key>
+	<string>包標題</string>
+	<key>Section Titles</key>
+	<string>部分標題</string>
+	<key>Sources Title</key>
+	<string>來源標題</string>
+	<key>Support &amp; Creator</key>
+	<string>支持與創作者和中文化小謝</string>
+	<key>System Apps Title</key>
+	<string>系統應用標題</string>
+	<key>Tweaks</key>
+	<string>調整</string>
+	<key>Tweaks Title</key>
+	<string>調整標題</string>
+	<key>Use 3DTouch throughout settings</key>
+	<string>在整個設置中使用3DTouch</string>
+	<key>Version:</key>
+	<string>版：</string>
+</dict>
+</plist>

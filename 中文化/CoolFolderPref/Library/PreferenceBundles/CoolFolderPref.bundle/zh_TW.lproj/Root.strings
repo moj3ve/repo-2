@@ -1,0 +1,21 @@
+{
+    Black = "\U9ed1\U8272";
+    Blue = "\U85cd\U8272";
+    "Border color" = "\U908a\U6846\U984f\U8272";
+    Brown = "\U68d5\U8272";
+    Clear = "\U660e\U78ba";
+    "Custom corner radius" = "\U81ea\U5b9a\U7fa9\U89d2\U534a\U5f91";
+    Cyan = "\U9752\U8272";
+    DarkGray = "\U6df1\U7070\U8272";
+    "Disabled in open state" = "\U5728\U958b\U653e\U72c0\U614b\U4e0b\U7981\U7528";
+    Enabled = "\U555f\U7528";
+    Gray = "\U7070\U8272";
+    Green = "\U7da0\U8272";
+    LightGray = "\U6dfa\U7070";
+    Magenta = "\U54c1\U7d05";
+    Orange = "\U6a59\U5b50";
+    Purple = "\U7d2b\U8272";
+    Red = "\U7d05\U8272";
+    White = "\U767d\U8272";
+    Yellow = "\U9ec3\U8272";
+}

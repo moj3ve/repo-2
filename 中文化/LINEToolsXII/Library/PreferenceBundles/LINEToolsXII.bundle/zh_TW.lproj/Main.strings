@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Calling Check</key>
+	<string>打電話給我</string>
+	<key>Free Theme (check though)</key>
+	<string>免費主題（雖然檢查）</string>
+	<key>Friend Request</key>
+	<string>好友請求</string>
+	<key>Hide Ads</key>
+	<string>隱藏廣告</string>
+	<key>No Read</key>
+	<string>不讀</string>
+	<key>Unsend Block (beta)</key>
+	<string>Unsend Block（測試版）</string>
+	<key>タイムライン広告を削除します。</key>
+	<string>刪除時間軸廣告。</string>
+	<key>友達リクエストを可能にします。</key>
+	<string>允許朋友請求。</string>
+	<key>既読を無効にします。</key>
+	<string>禁用讀取。</string>
+	<key>着せ替えを無料化します。</key>
+	<string>免費裝扮。</string>
+	<key>送信取り消しを無効にします。</key>
+	<string>禁用發送取消。</string>
+	<key>電話の誤発信をパスワードで防止します。</key>
+	<string>使用密碼阻止撥出電話。</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always show full bar</key>
+	<string>始終顯示完整欄</string>
+	<key>Choose custom colors</key>
+	<string>選擇自定義顏色</string>
+	<key>Fixed Color</key>
+	<string>固定顏色</string>
+	<key>Hide battery indicator</key>
+	<string>隱藏電池指示燈</string>
+	<key>Hiding battery indicator requires a respring!</key>
+	<string>隱藏電池指示燈需要呼吸！</string>
+	<key>Made by gilshahar7.</key>
+	<string>由gilshahar製作7。
+中文化：小謝</string>
+	<key>Pulse duration in seconds</key>
+	<string>脈衝持續時間（秒）</string>
+	<key>Pulse when charging</key>
+	<string>充電時脈衝</string>
+	<key>Reset BatteryNotch settings</key>
+	<string>重置電池槽口設置</string>
+	<key>Use fixed color</key>
+	<string>使用固定顏色</string>
+	<key>Use the hex value "#4cd964" for Apple's default green color.</key>
+	<string>對於Apple的默認綠色，請使用十六進制值“＃4cd964”。</string>
+	<key>Use thick bar</key>
+	<string>使用粗條</string>
+	<key>Yellow bar when using LPM</key>
+	<string>使用LPM時黃色條</string>
+</dict>
+</plist>

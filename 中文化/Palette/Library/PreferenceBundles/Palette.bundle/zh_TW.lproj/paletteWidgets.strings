@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Blur Style</key>
+	<string>模糊風格</string>
+	<key>Coloring</key>
+	<string>染色</string>
+	<key>Custom Banner Color</key>
+	<string>自定義橫幅顏色</string>
+	<key>Custom Gradient Color</key>
+	<string>自定義漸變色</string>
+	<key>Custom Header Color</key>
+	<string>自定義標題顏色</string>
+	<key>Custom Underline Color</key>
+	<string>自定義下劃線顏色</string>
+	<key>Enable</key>
+	<string>啟用</string>
+	<key>Gradient</key>
+	<string>梯度</string>
+	<key>Gradient Color Alpha:</key>
+	<string>漸變色Alpha：</string>
+	<key>Gradient Style</key>
+	<string>漸變風格</string>
+	<key>Header</key>
+	<string>頭</string>
+	<key>Header Color Alpha:</key>
+	<string>標題顏色Alpha：</string>
+	<key>Header Style</key>
+	<string>標題樣式</string>
+	<key>Label Color</key>
+	<string>標籤顏色</string>
+	<key>Main Color Alpha:</key>
+	<string>主色Alpha：</string>
+	<key>Underline</key>
+	<string>強調</string>
+	<key>Underline Color Alpha:</key>
+	<string>下劃線顏色Alpha：</string>
+	<key>Underline Style</key>
+	<string>下劃線樣式</string>
+	<key>Use Custom Color</key>
+	<string>使用自定義顏色</string>
+	<key>Use Custom Gradient</key>
+	<string>使用自定義漸變</string>
+	<key>Use Custom Header</key>
+	<string>使用自定義標題</string>
+	<key>Use Custom Underline</key>
+	<string>使用自定義下劃線</string>
+	<key>Use Fake Header</key>
+	<string>使用假標頭</string>
+	<key>Use Gradient</key>
+	<string>使用漸變</string>
+	<key>Use Underline</key>
+	<string>使用下劃線</string>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always On</key>
+	<string>永遠在線</string>
+	<key>Animation</key>
+	<string>動畫</string>
+	<key>Blackout</key>
+	<string>燈火管制</string>
+	<key>Blackout makes the animation appear on a black background</key>
+	<string>停電使動畫顯示在黑色背景上</string>
+	<key>Color</key>
+	<string>顏色</string>
+	<key>Color for Responsive Animations</key>
+	<string>響應動畫的顏色</string>
+	<key>Customization</key>
+	<string>定制</string>
+	<key>Disable Apple Watch Fix</key>
+	<string>禁用Apple Watch Fix</string>
+	<key>Disabling Apple Watch Fix will prevent the screen from waking up.</key>
+	<string>禁用Apple Watch Fix會阻止屏幕喚醒。</string>
+	<key>Donate</key>
+	<string>捐</string>
+	<key>Enable on Lockscreen</key>
+	<string>在鎖屏上啟用</string>
+	<key>Enable on Springboard</key>
+	<string>在Springboard上啟用</string>
+	<key>Extra Stuff</key>
+	<string>額外的東西</string>
+	<key>Follow @c1d3rDev (Developer)</key>
+	<string>關注@ c1d3rDev（開發者）</string>
+	<key>Follow @lazynagy (Icon Designer)</key>
+	<string>關注@lazynagy（圖標設計師）</string>
+	<key>Lockscreen</key>
+	<string>鎖屏</string>
+	<key>Loop</key>
+	<string>環</string>
+	<key>Override</key>
+	<string>覆蓋</string>
+	<key>Springboard</key>
+	<string>跳板</string>
+	<key>Submit Animations</key>
+	<string>提交動畫</string>
+	<key>Wake After Animation Completes</key>
+	<string>動畫完成後喚醒</string>
+	<key>kill my battery fam</key>
+	<string>殺了我的電池</string>
+</dict>
+</plist>

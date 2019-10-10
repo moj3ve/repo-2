@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom lines</key>
+	<string>自定義行</string>
+	<key>Enable custom "Press home to unlock"</key>
+	<string>啓用自定義”按下主屏幕按鈕以解鎖”</string>
+	<key>Enable custom notification lines</key>
+	<string>啓用自定義通知行</string>
+	<key>Enter number of lines preferred.</key>
+	<string>輸入指定的行數</string>
+	<key>Hide content</key>
+	<string>隱藏內容</string>
+	<key>Hide header</key>
+	<string>隱藏標題</string>
+	<key>Hide hint for LS</key>
+	<string>隱藏鎖屏提示</string>
+	<key>Hide name</key>
+	<string>隱藏消息來源</string>
+	<key>Lockscreen</key>
+	<string>鎖屏界面</string>
+	<key>Notification Bulletin/Banner</key>
+	<string>通知公告/橫幅</string>
+	<key>Notification Center</key>
+	<string>通知中心</string>
+	<key>Notification settings</key>
+	<string>通知中心設置</string>
+	<key>Remove "No older notification"</key>
+	<string>移除”沒有更早的通知”</string>
+	<key>Remove app icon</key>
+	<string>移除應用程序圖標</string>
+	<key>Remove app name</key>
+	<string>移除應用程序名稱</string>
+	<key>Remove time</key>
+	<string>移除時間</string>
+	<key>Sticky banners</key>
+	<string>不動的橫幅</string>
+	<key>Tap X to clear</key>
+	<string>點擊 X 來清除</string>
+	<key>View later</key>
+	<string>稍後閱讀</string>
+</dict>
+</plist>

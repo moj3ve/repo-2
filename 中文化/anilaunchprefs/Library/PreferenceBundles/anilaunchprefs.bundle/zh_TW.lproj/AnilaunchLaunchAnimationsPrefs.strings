@@ -1,0 +1,8 @@
+{
+    Animation = "\U52d5\U756b";
+    "Choose a uniqe animation for specific app icons. Select the app from the list and afterwards the desired animation and duration." = "\U70ba\U7279\U5b9a\U61c9\U7528\U5716\U6a19\U9078\U64c7\U4e00\U500b\U7368\U7279\U7684\U52d5\U756b\U3002 \U5f9e\U5217\U8868\U4e2d\U9078\U64c7\U61c9\U7528\U7a0b\U5e8f\Uff0c\U7136\U5f8c\U9078\U64c7\U6240\U9700\U7684\U52d5\U756b\U548c\U6301\U7e8c\U6642\U9593\U3002";
+    "Choose the global animation and duration. This will be applied to all app icons." = "\U9078\U64c7\U5168\U5c40\U52d5\U756b\U548c\U6301\U7e8c\U6642\U9593\U3002 \U9019\U5c07\U61c9\U7528\U65bc\U6240\U6709\U61c9\U7528\U7a0b\U5e8f\U5716\U6a19\U3002";
+    "Clear all per app animations" = "\U6e05\U9664\U6240\U6709\U61c9\U7528\U52d5\U756b";
+    "Global animations" = "\U5168\U7403\U52d5\U756b";
+    "Per app animations" = "\U6bcf\U500b\U61c9\U7528\U52d5\U756b";
+}

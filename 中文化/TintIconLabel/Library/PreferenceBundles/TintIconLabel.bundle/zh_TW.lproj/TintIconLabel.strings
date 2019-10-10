@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add My Repo on Cydia 📦</key>
+	<string>在Cydia上添加我的回購📦</string>
+	<key>Additional Features</key>
+	<string>附加功能</string>
+	<key>Apply Extra options!</key>
+	<string>應用額外選項！</string>
+	<key>Cheers a Beer 🍻</key>
+	<string>乾杯啤酒🍻</string>
+	<key>Contacts 🌎</key>
+	<string>聯繫人🌎</string>
+	<key>Email Me 📩</key>
+	<string>給我發電子郵件📩</string>
+	<key>Enable Highlight Tint!</key>
+	<string>啟用突出顯示色調！</string>
+	<key>Enable Text Tint!</key>
+	<string>啟用文字色調！</string>
+	<key>Follow me on Twitter ❤️</key>
+	<string>在推特上關注我❤️</string>
+	<key>Hide All Icons Labels</key>
+	<string>隱藏所有圖標標籤</string>
+	<key>My Tweaks on BigBoss Repo 🛠</key>
+	<string>我對BigBoss Repo的調整🛠</string>
+	<key>Other Tweaks by Me:</key>
+	<string>我的其他調整：</string>
+	<key>Respring to apply any Changes!</key>
+	<string>呼籲申請任何變更！</string>
+	<key>Respring ✅</key>
+	<string>響應✅</string>
+	<key>Select Highlight Label Color</key>
+	<string>選擇突出顯示標籤顏色</string>
+	<key>Select Text Label Color</key>
+	<string>選擇文本標籤顏色</string>
+	<key>TintIconLabel © 2018 by Luca Geek (@CydiaGeek), enjoy it!
+
+Thanks Tip by sinfool.
+
+Testing Stage Thanks to my Brother @lorenzo_noide.
+
+Settings Icon made by Skyclick.</key>
+	<string>TintIconLabel©2018 by Luca Geek（@CydiaGeek），盡享吧！
+中文化：小謝
+
+感謝sinfool提示。
+
+測試階段感謝我的兄弟@lorenzo_noide。
+
+設置Skyclick製作的圖標。</string>
+	<key>You can Select Custom Colors for the Text and Highlight of your Icons Labels!</key>
+	<string>您可以為圖標標籤的文本和突出顯示選擇自定義顏色！</string>
+</dict>
+</plist>

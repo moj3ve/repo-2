@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buy me a coffee</key>
+	<string>給我買一杯咖啡☕️中文化：小謝</string>
+	<key>Donate</key>
+	<string>捐</string>
+	<key>JB Tool</key>
+	<string>JB工具</string>
+	<key>Select App to display cert</key>
+	<string>選擇App以顯示證書</string>
+	<key>Select JB Tool</key>
+	<string>選擇JB 工具</string>
+	<key>select app</key>
+	<string>選擇應用</string>
+</dict>
+</plist>

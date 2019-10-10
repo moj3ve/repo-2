@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>* - requires respring to take effect.</key>
+	<string>*  - 要求生效才能生效。</string>
+	<key>*Custom Dock</key>
+	<string>*定制碼頭</string>
+	<key>*Custom Icon Layout</key>
+	<string>*自定義圖標佈局</string>
+	<key>Number of Columns</key>
+	<string>列數</string>
+	<key>Number of Icons In Dock</key>
+	<string>碼頭中的圖標數量</string>
+	<key>Number of Rows</key>
+	<string>行數</string>
+</dict>
+</plist>

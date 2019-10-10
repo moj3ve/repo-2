@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chat</key>
+	<string>聊</string>
+	<key>Group</key>
+	<string>組</string>
+	<key>ReadText Custom</key>
+	<string>讀文字自定義</string>
+	<key>既読文字を変更できます。@N: 既読カウント</key>
+	<string>您可以更改已讀取的字符。 @N：讀數</string>
+</dict>
+</plist>

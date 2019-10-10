@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>*Apply Changes resprings the device. Only need to Apply Changes if you selected Custom Icon Layout or adjusted the Square Icon Labels, Page Control, or Icon Label Visibility </key>
+	<string>* Apply Changes resprings the device。 如果選擇了“自定義圖標佈局”或調整了“方形圖標標籤”，“頁面控件”或“圖標標籤可見性”，則只需應用“更改”</string>
+	<key>Apply Changes</key>
+	<string>應用更改</string>
+	<key>Enable Quick Settings</key>
+	<string>啟用快速設置</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Force Touch</key>
+	<string>強制觸摸</string>
+	<key>General Configurations</key>
+	<string>一般配置</string>
+	<key>Icon Layout Settings</key>
+	<string>圖標佈局設置</string>
+	<key>Quick Settings Color</key>
+	<string>快速設置顏色</string>
+	<key>Quick Settings Dark Mode</key>
+	<string>快速設置暗模式</string>
+	<key>Swipe Up anywhere on the SpringBoard to access Quick Settings</key>
+	<string>在SpringBoard上的任意位置向上滑動即可訪問“快速設置”</string>
+	<key>Use Two Finger Tap Instead</key>
+	<string>請使用雙指點擊</string>
+</dict>
+</plist>

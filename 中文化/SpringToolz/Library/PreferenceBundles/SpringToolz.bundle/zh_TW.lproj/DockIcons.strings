@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>"Animate Shape" is experimental feature. You may experience some issues with it (sometimes may fail to start). Try it and send me a feedback if you like.</key>
+	<string>“Animate Shape”是實驗性特徵。 您可能會遇到一些問題（有時可能無法啟動）。 如果您願意，可以嘗試並向我發送反饋。</string>
+	<key>"Satellite Dots" is experimental feature with which you may have issues (sometimes may fail to animate). Try it and send me a feedback if you like.</key>
+	<string>“衛星點”是一個實驗性功能，您可能會遇到問題（有時可能無法製作動畫）。 如果您願意，可以嘗試並向我發送反饋。</string>
+	<key>Animate Shape</key>
+	<string>動畫形狀</string>
+	<key>Choose Shape</key>
+	<string>選擇形狀</string>
+	<key>Enable Satellite Dots</key>
+	<string>啟用衛星點</string>
+	<key>Enable Shadows</key>
+	<string>啟用陰影</string>
+	<key>SHAPE ROTATION</key>
+	<string>形狀旋轉</string>
+</dict>
+</plist>

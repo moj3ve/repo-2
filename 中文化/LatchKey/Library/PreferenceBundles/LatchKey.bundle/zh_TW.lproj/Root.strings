@@ -1,0 +1,19 @@
+{
+    "@M_Dausch" = "@M_Dausch";
+    "Compact Status Bar (left)" = "\U7dca\U6e4a\U72c0\U614b\U6b04\Uff08\U5de6\Uff09";
+    "Compact Status Bar (right)" = "\U7dca\U6e4a\U72c0\U614b\U6b04\Uff08\U53f3\Uff09";
+    Custom = "\U7fd2\U6163";
+    "Custom Positioning" = "\U81ea\U5b9a\U7fa9\U5b9a\U4f4d";
+    Enable = "\U555f\U7528";
+    Hidden = "\U96b1";
+    "Hide Carrier" = "\U96b1\U85cf\U904b\U71df\U5546";
+    Misc = "\U96dc\U9805";
+    Position = "\U4f4d\U7f6e";
+    Respring = "\U91cd\U65b0\U555f\U52d5";
+    Scale = "\U898f\U6a21";
+    "Some changes may require a respring" = "\U67d0\U4e9b\U66f4\U6539\U53ef\U80fd\U9700\U8981\U91cd\U65b0\U8abf\U6574";
+    "Status Bar" = "\U72c0\U614b\U6b04";
+    "View on Github" = "\U5728Github\U4e0a\U67e5\U770b \U4e2d\U6587\U5316\Uff1a\U5c0f\U8b1d";
+    "X Position:" = "X\U8077\U4f4d\Uff1a";
+    "Y Position:" = "Y\U8077\U4f4d\Uff1a";
+}

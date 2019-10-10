@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Friendlist</key>
+	<string>好友列表</string>
+	<key>Chatlist</key>
+	<string>聊天列表</string>
+	<key>Timeline</key>
+	<string>時間軸</string>
+	<key>Shortcut Button</key>
+	<string>快捷按鈕</string>
+</dict>
+</plist>

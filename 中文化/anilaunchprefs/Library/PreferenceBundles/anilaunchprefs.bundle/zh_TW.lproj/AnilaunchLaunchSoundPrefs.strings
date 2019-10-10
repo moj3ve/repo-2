@@ -1,0 +1,5 @@
+{
+    Sound = "\U8072\U97f3";
+    "Test sound" = "\U6e2c\U8a66\U8072\U97f3";
+    "You can use your own custom sounds for playback. Just put your sound file under: \n/var/mobile/Documents/Anilaunch/CustomSounds/\nYou can use mp3 or caf files with a max duration of 30 seconds. Sound is not played when device is muted or in do not distrub mode.\nThe sounds play at the current system audio volume." = "\U60a8\U53ef\U4ee5\U4f7f\U7528\U81ea\U5df1\U7684\U81ea\U5b9a\U7fa9\U8072\U97f3\U9032\U884c\U64ad\U653e\U3002 \U53ea\U9700\U5c07\U60a8\U7684\U8072\U97f3\U6587\U4ef6\U653e\U5728\Uff1a\n\U7684/ var /\U79fb\U52d5/\U6587\U6a94/ Anilaunch/ CustomSounds/\n\U60a8\U53ef\U4ee5\U4f7f\U7528\U6700\U957730\U79d2\U7684mp3\U6216caf\U6587\U4ef6\U3002 \U7576\U8a2d\U5099\U975c\U97f3\U6216\U4e0d\U5206\U96e2\U6a21\U5f0f\U6642\Uff0c\U4e0d\U64ad\U653e\U8072\U97f3\U3002\n\U8072\U97f3\U5728\U7576\U524d\U7cfb\U7d71\U97f3\U91cf\U64ad\U653e\U3002";
+}
