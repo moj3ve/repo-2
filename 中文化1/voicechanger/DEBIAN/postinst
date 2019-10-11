@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cp -f /Library/PreferenceBundles/voicechanger.bundle/zh_TW.lproj/voicechanger.strings/*.* /Library/PreferenceBundles/voicechanger.bundle/zh_TW.lproj/voicechanger.strings
+
+echo " 恭喜你已經完成中文化"
+
+
+declare -a cydia
+cydia=($CYDIA)
+if [[ ${CYDIA+@} ]]; then
+	eval "echo 'finish:killall SpringBoard' >&${cydia[0]}"
+fi
+exit 0

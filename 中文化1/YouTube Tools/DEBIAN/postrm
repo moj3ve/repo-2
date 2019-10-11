@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm -rf "/Library/PreferenceBundles/youtubetools.bundle/zh_TW.lproj/youtubetools.strings"
+
+echo " 中文字體包已經移除了！"
+
+declare -a cydia
+if [[ ${CYDIA+@} ]]; then
+	eval "echo 'finish:killall SpringBoard' >&${cydia[0]}"
+fi
+exit 0

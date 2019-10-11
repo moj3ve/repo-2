@@ -1,0 +1,10 @@
+Package: com.axcvd.WiiVampPref
+Name: WiiVampPref繁體中文化
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 使用前先裝主程式不然就沒有中文化了
+Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.WiiVampPref
+Maintainer: 小謝 <vv741852v@gmail.com>
+Author: 小謝 <vv741852v@gmail.com>
+Section: Localization
+Version: 1.0.1

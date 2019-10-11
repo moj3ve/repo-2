@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enabled</key>
+	<string>啓用功能</string>
+	<key>Follow me on Twitter @SparkDev_</key>
+	<string>推特 @SparkDev_</string>
+	<key>In-App Gesture</key>
+	<string>應用內手勢</string>
+	<key>Left Corner Swipe Up</key>
+	<string>左下角向上滑</string>
+	<key>None</key>
+	<string>沒有</string>
+	<key>Right Corner Swipe Up</key>
+	<string>右下角向上滑</string>
+	<key>Settings</key>
+	<string>設置</string>
+	<key>Show App Labels</key>
+	<string>顯示應用標籤</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Swipe Up Dock Gesture</key>
+	<string>向上滑動Dock欄</string>
+</dict>
+</plist>

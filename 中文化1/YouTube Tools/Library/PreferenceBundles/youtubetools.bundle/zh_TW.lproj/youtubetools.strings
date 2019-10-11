@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Credits</key>
+	<string>作者</string>
+	<key>Disable Autoplay Next Video</key>
+	<string>禁用自動播放下一個視頻</string>
+	<key>Disable Double Tap Guesture</key>
+	<string>禁用雙擊</string>
+	<key>Donations</key>
+	<string>捐贈</string>
+	<key>General</key>
+	<string>一般設置</string>
+	<key>Hide Camera/Upload Toggle</key>
+	<string>隱藏相機/啟動開關</string>
+	<key>Hide Device Toggle</key>
+	<string>隱藏設備開關</string>
+	<key>Hide End Screen Video View</key>
+	<string>隱藏結束屏幕視頻視圖</string>
+	<key>Hide Info Card Overlay</key>
+	<string>隱藏信息行</string>
+	<key>Hide Library Tab</key>
+	<string>隱藏庫選項卡</string>
+	<key>Hide Profile Toggle</key>
+	<string>隱藏個人資料開關</string>
+	<key>Hide Status Bar</key>
+	<string>隱藏狀態欄</string>
+	<key>Hide Subscription Tab</key>
+	<string>隱藏“訂閱”選項卡</string>
+	<key>Hide Suggested/Related Video Overlay</key>
+	<string>隱藏建議/相關視頻</string>
+	<key>Hide Trending Tab</key>
+	<string>隱藏趨勢選項卡</string>
+	<key>Hide Voice Search</key>
+	<string>隱藏語音搜索</string>
+	<key>Hide Watermark Overlay</key>
+	<string>隱藏水印</string>
+	<key>If you're enjoying this tweak feel free to donate! Thank you to anyone that does, you're the real MVP! Thanks for keeping free tweaks alive! 😊</key>
+	<string>如果您喜歡這個調整，那麼隨時捐贈！ 感謝所有這樣做的人。 感謝您保存免費調整😊
+
+從@ Idris__1翻譯與ReJail  -  rejail.ru 😎中文化小謝😎</string>
+	<key>Miscellaneous</key>
+	<string>雜記</string>
+	<key>Navigation Bar</key>
+	<string>導航欄</string>
+	<key>No Age Restriction</key>
+	<string>禁用年齡限制</string>
+	<key>No Video Ads</key>
+	<string>刪除視頻廣告</string>
+	<key>PayPal (Donate)</key>
+	<string>貝寶（Donat）</string>
+	<key>Play In Background</key>
+	<string>在後台玩</string>
+	<key>Respring</key>
+	<string>重新啟動</string>
+	<key>Select Quality Over 3G/4G</key>
+	<string>選擇3G / 4G品質</string>
+	<key>Sticky Navigation Bar</key>
+	<string>粘性導航欄</string>
+	<key>Stream</key>
+	<string>流</string>
+	<key>Tab Bar</key>
+	<string>標籤欄</string>
+	<key>Twitter (Follow Me)</key>
+	<string>Twitter（跟我來）</string>
+	<key>Video View</key>
+	<string>觀看視頻</string>
+</dict>
+</plist>
