@@ -1,23 +1,23 @@
 <package>
-	<id>com.axcvd.UnSubPrefs</id>
-	<name>UnSubPrefs繁體中文化</name>
-	<version>1.0.1</version>
-	<compatibility>
-		<firmware>
-			<maxiOS>12.1.2</maxiOS>
-			<otherVersions>11.0</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>UnSubPrefs繁體中文化，使用前先安裝主程式</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>第2個中文化版本</change>
-	</changelog>
-	<links></links>
+    <id>com.axcvd.UnSubPrefs</id>
+    <name>UnSubPrefs繁體中文化</name>
+    <version>1.0.1</version>
+    <compatibility>
+        <firmware>
+            <maxiOS>12.1.2</maxiOS>
+            <otherVersions>11.0</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>UnSubPrefs繁體中文化，使用前先安裝主程式</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>第2個中文化版本</change>
+    </changelog>
+    <links></links>
 </package>
